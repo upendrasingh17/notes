@@ -1,0 +1,34 @@
+Below is step by step process to bring up your development environment using HortonSandbox
+
+1. Download ova file using the link http://hortonassets.s3.amazonaws.com/2.2/Sandbox_HDP_2.2_VMware.ova
+2. After downloading import this vm using vmplayer(free or licensed). I am using licensed one. Do not start the VM.
+3. Goto Edit Virtual Machine Settings->Network Adapter->Select Bridged and also check "Replicate physical network connection state".
+4. Increase the memory to 13GB(My system has 16GB RAM).
+5. Now power on the VM.
+6. Once the boot up is complete press "Alt + F5" to get into the console. Booted OS is CentOS6
+7. Login using "root/hadoop" credential.
+8. On console check whether internet has been detected by the booted OS or not using "ping www.google.co.in". 
+   Right response means we are good to go. If something is wrong with the network fix that first before proceeding. 
+   Make sure the internet is detected by the booted OS.
+9. Now the VM does not has GUI like one Cloudera QuickStart has. But luckily this is a CentOS so we can arrange for that.
+10. Run below command to install Desktop and Related Utilities
+   #yum -y yum -y groupinstall "Desktop" "Desktop Platform" "X Window System" "Fonts" "vim" "firefox"
+    Completion of this command may take some time.It may download and install around 180MB of files.
+11. We are not done yet. System currently boots in console mode. We need to change it to GUI mode. 
+   #vim /etc/inittab
+   Locate the following line “id:3:initdefault:” and change the number value from 3 (default) to 5
+12. Reboot the system
+13. Now if everything has gone right system should boot in GUI mode. It will display all user in the system
+    except the root user. Select "other" and login using "root/hadoop".
+14. We are not done yet. If you want Ctrl+C Ctrl+V functionality between your Windows Host and Booted VM you 
+   need to install VMWare Tool. Goto VMWare Player->VM->Install/Reinstall VMware Tools.
+   This should bring up "VMware Tool" option on your desktop. Now we will install it. Please follow following steps:
+15. #cd /media/VMware Tool
+16. #cp VMwareTools*.tar.gz /tmp
+17. #cd /tmp
+18. #tar xvf VMwareTools*.tar.gz
+19. #cd vmware-tools-distrib
+20. #./vmware-install.pl
+21. Accept all the default options by simply pressing enter on all the options.
+22. Upon successful exit. Reboot the VM. After reboot it will display all user in the system
+    except the root user. Select "other" and login using "root/hadoop".

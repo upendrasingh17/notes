@@ -32,3 +32,31 @@ Below is step by step process to bring up your development environment using Hor
 21. Accept all the default options by simply pressing enter on all the options.
 22. Upon successful exit. Reboot the VM. After reboot it will display all user in the system
     except the root user. Select "other" and login using "root/hadoop".
+    
+    
+    Setting up R packages:
+    For R packages to successfully installed we need to set up development environment first:
+    R by default is not available in the system. Let's install that first
+1. #yum install R
+   This should install lots of packages which are dependencies for R
+2. Check the installation of R by starting it from console. You should get R command line.
+3. Let's install R-studio:
+4. First install right version of openssl.
+   #yum install openssl098e
+5. #yum install --nogpgcheck rstudio-server-0.98.1102-x86_64.rpm
+6. #cp /etc/pam.d/login /etc/pam.d/rstudio
+7. rstudio will not allow root user to login. Create a user for working in rstudio. 
+   Goto System->Administration->Users and Group->Add User
+8. Now goto link "http://localhost:8787". Login using new user created above. This should work fine.
+
+   Setting up Python packages:
+1. Current version of python installed in the system is Python 2.6.6.
+2. To facilitate smooth installation of python packages using pip we first need to ensure all needed 
+   dependencies are installed.
+3. #yum -y groupinstall "Development tools";yum -y install zlib-devel;yum -y install bzip2-devel;yum -y install openssl-devel;yum -y install ncurses-devel;yum -y install openmpi openmpi-devel python-devel;yum -y install gfortran openblas-devel lapack-devel;yum -y install libfreetype6-devel libpng-devel;yum -y install unixODBC-devel
+4. #yum -y install libyaml-devel
+5. #yum -y install libffi-devel libxslt-devel libxslt libxml2-devel libxml2 libssl-devel
+6. #pip install numpy;pip install scipy;pip install pandas
+7. Eclipse can be used as Python IDE. Goto link http://pydev.org/manual_101_install.html to know how to configure 
+   eclipse for python development.
+

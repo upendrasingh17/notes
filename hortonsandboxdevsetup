@@ -60,3 +60,18 @@ Below is step by step process to bring up your development environment using Hor
 7. Eclipse can be used as Python IDE. Goto link http://pydev.org/manual_101_install.html to know how to configure 
    eclipse for python development.
 
+   Setting up Scala:
+1. Download Scala from http://www.scala-lang.org/download/2.11.5.html
+2. #cd /root; wget http://downloads.typesafe.com/scala/2.11.5/scala-2.11.5.tgz
+2. #tar xvzf scala-2.11.5.tgz
+3. #vim /root/.bashrc
+add line in the file
+export SCALA_HOME=/root/scala-2.11.5
+export PATH=$PATH:$SCALA_HOME/bin
+4. #source /root/.bashrc
+Scala should now be available via command line. Check by typing scala on the command prompt
+
+
+   Setting up Mahout:
+1. #yum install mahout
+   

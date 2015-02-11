@@ -70,6 +70,12 @@ export SCALA_HOME=/root/scala-2.11.5
 export PATH=$PATH:$SCALA_HOME/bin
 4. #source /root/.bashrc
 Scala should now be available via command line. Check by typing scala on the command prompt
+5. Now lets set up scala build tool
+6. #curl https://bintray.com/sbt/rpm/rpm > bintray-sbt-rpm.repo
+7. #mv bintray-sbt-rpm.repo /etc/yum.repos.d/
+8. #yum install sbt
+9. This should to install sbt on the system. Now to test type sbt on command line. This should start downloading
+   some jar files. Let the process complete. This means system is now ready for scala development
 
 
    Setting up Mahout:

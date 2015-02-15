@@ -7,7 +7,8 @@ Tutorial 3: http://hortonworks.com/hadoop-tutorial/real-time-data-ingestion-hbas
 The tutorials need to be executed in sequence but if you try to do the same it will simply not work. Tutorials and code
 are missing some important settings before you start. Please find them below.
 
-0. After downloadin the HortonSandbox VM and importing and booting the VM. Goto terminal and modify /etc/hosts
+0. After downloadin the HortonSandbox VM and importing and booting the VM. One can use the instructions present in
+https://github.com/upendrasingh1/notes/blob/master/hortonsandboxdevsetup . Goto terminal and modify /etc/hosts
 using vim to look like below:
 
 127.0.0.1               localhost.localdomain localhost

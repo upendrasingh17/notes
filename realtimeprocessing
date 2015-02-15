@@ -1,1 +1,43 @@
-TruckEvents Complete Working End to End Example
+In this tutorial we'll try configure and run some existing real time processing examples on Horton Sandbox 2.2 using 
+Storm,Kafka,Hbase. Please find below links which we are trying to fix:
+Tutorial 1: http://hortonworks.com/hadoop-tutorial/simulating-transporting-realtime-events-stream-apache-kafka/
+Tutorial 2: http://hortonworks.com/hadoop-tutorial/ingesting-processing-real-time-events-apache-storm/
+Tutorial 3: http://hortonworks.com/hadoop-tutorial/real-time-data-ingestion-hbase-hive-using-storm-bolt/
+
+The tutorials need to be executed in sequence but if you try to do the same it will simply not work. Tutorials and code
+are missing some important settings before you start. Please find them below.
+
+0. After downloadin the HortonSandbox VM and importing and booting the VM. Goto terminal and modify /etc/hosts
+using vim to look like below:
+
+127.0.0.1               localhost.localdomain localhost
+X.X.X.X     sandbox.hortonworks.com sandbox ambari.hortonworks.com
+
+Then network restart or VM reboot to reflect the changes above:
+#service network restart
+1. In Step 5 of Tutorial 1 after below steps
+#mkdir /opt/TruckEvents  
+#cd /opt/TruckEvents  
+#wget http://hortonassets.s3.amazonaws.com/mda/Tutorials-master.zip  
+#unzip Tutorials-master.zip
+2. There is a runtime dependency missing in pom.xml file. Add following dependency in pom.xml:
+        <dependency>
+            <groupId>xerces</groupId>
+            <artifactId>xercesImpl</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+3. In package com.hortonworks.tutorials.tutorial3: File TruckEventProcessingTopology.java inside function
+buildAndSubmit() comment out configureHDFSBolt(builder) function call. This function is completely broken. This will
+ensure hive and hdfs part of Tutorial 3 will not be invoked but HBase part will work fine.
+4. Goto Ambari Console 127.0.0.1:8080 using admin/admin. Select HBase->Configs->Advanced HBase Site
+add user storm and root to hbase.superuser property. It should look like hbase.superuser hbase,root,storm
+
+After above steps we can start executing the tutorials in the sequence but whereever Producer code is invoked 
+using below command in all three tutorials 
+
+java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer localhost:9092 localhost:2181 &
+
+use this command
+java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer sanbox.hortonworks.com:6667 sanbox.hortonworks.com:2181 &
+
+I'll try to keep this updated.

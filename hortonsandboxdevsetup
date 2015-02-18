@@ -84,3 +84,6 @@ Scala should now be available via command line. Check by typing scala on the com
    Setting up NodeJS and npm
 1. #yum install nodejs
 2. #yum install npm
+
+Note: Rest Hbase Client for NodeJS
+https://github.com/wdavidw/node-hbase

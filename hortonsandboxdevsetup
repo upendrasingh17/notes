@@ -88,3 +88,26 @@ Scala should now be available via command line. Check by typing scala on the com
 Note: Rest Hbase Client for NodeJS
 https://github.com/wdavidw/node-hbase
 npm install hbase
+
+   Settin up Phoenix with HBase:
+1. Install Phoenix on all HBase Region servers:
+   #yum install phoenix
+   
+2. Link the Phoenix core jar file to the HBase Master and Region Servers:
+   #ln -sf /usr/hdp/2.2.0.0-2041/phoenix/lib/phoenix-core-4.2.0.2.2.0.0-2041.jar /usr/hdp/2.2.0.0-2041/hbase/lib/phoenix.jar
+   
+3. Add the following configuration to hbase-site.xml on all HBase nodes, the Master Server, and all Region Servers:
+   #vim /etc/hbase/conf/hbase-site.xml
+   
+   <property>
+   <name>hbase.defaults.for.version.skip</name>
+   <value>true</value>
+</property>
+<property>
+   <name>hbase.regionserver.wal.codec</name>
+   <value>org.apache.hadoop.hbase.regionserver.wal.IndexedWALEditCodec</value>
+</property>
+
+4. Restart the HBase Master and Region Servers.
+
+5. Add the phoenix-4.0-client.jar to the classpath of any Phoenix client.

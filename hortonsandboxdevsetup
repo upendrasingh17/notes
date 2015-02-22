@@ -114,3 +114,6 @@ npm install hbase
 
 6. Testing. This should work
    #./psql.py sandbox.hortonworks.com:2181:/hbase-unsecure /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT.sql /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT.csv /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT_QUERIES.sql
+   
+   #/usr/hdp/2.2.0.0-2041/phoenix/bin/sqlline.py sandbox.hortonworks.com:2181:/hbase-unsecure
+   This should give sql command prompt to firs sql commands to HBase

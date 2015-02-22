@@ -111,3 +111,6 @@ npm install hbase
 4. Restart the HBase Master and Region Servers.
 
 5. Add the phoenix-4.0-client.jar to the classpath of any Phoenix client.
+
+6. Testing. This should work
+   #./psql.py sandbox.hortonworks.com:2181:/hbase-unsecure /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT.sql /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT.csv /usr/hdp/2.2.0.0-2041/phoenix/doc/examples/WEB_STAT_QUERIES.sql

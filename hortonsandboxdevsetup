@@ -117,3 +117,14 @@ npm install hbase
    
    #/usr/hdp/2.2.0.0-2041/phoenix/bin/sqlline.py sandbox.hortonworks.com:2181:/hbase-unsecure
    This should give sql command prompt to firs sql commands to HBase
+
+7. Adding jdbc driver in netbeans:
+Goto Services->Databases->Drivers->Add Driver
+Driver File: /usr/hdp/2.2.0.0-2041/phoenix/phoenix-4.2.0.2.2.0.0-2041-client.jar
+Driver Class: org.apache.phoenix.jdbc.PhoenixDriver
+Name: Phoenix
+
+Now:
+Connect using: Driver Name: Phoenix
+username and password: null
+jdbc url: jdbc:phoenix:sandbox.hortonworks.com:2181/hbase-unsecure

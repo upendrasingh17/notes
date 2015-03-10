@@ -128,3 +128,29 @@ Now:
 Connect using: Driver Name: Phoenix
 username and password: null
 jdbc url: jdbc:phoenix:sandbox.hortonworks.com:2181/hbase-unsecure
+
+8. Using it in a program:
+vim phoenixTest.java
+
+import java.sql.*;
+import java.util.*;
+
+public class phoenixTest
+{
+        public static void main(String args[]) throws Exception
+        {
+                Connection conn;
+                Properties prop = new Properties();
+                Class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
+                conn =  DriverManager.getConnection("jdbc:phoenix:sandbox.hortonworks.com:/hbase-unsecure");
+                System.out.println("got connection");
+                ResultSet rst = conn.createStatement().executeQuery("select * from WEB_STAT");
+                 while (rst.next()) {
+                        System.out.println(rst.getString(1) + " " + rst.getString(2) + " " + rst.getString(3));
+                }
+
+        }
+}
+
+#javac phoenixTest.java
+#java -cp ".:/usr/hdp/2.2.0.0-2041/phoenix/phoenix-4.2.0.2.2.0.0-2041-client.jar" phoenixTest

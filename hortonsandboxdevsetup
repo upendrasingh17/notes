@@ -155,6 +155,19 @@ public class phoenixTest
 #javac phoenixTest.java
 #java -cp ".:/usr/hdp/2.2.0.0-2041/phoenix/phoenix-4.2.0.2.2.0.0-2041-client.jar" phoenixTest
 
+Adding Phoenix Driver in Maven:
+
+Add following dependency in pom.xml
+
+<dependency>
+  		<groupId>org.apache.phoenix</groupId>
+  		<artifactId>phoenix</artifactId>
+  		<version>4.2.0.2.2.0.0-2041</version>
+      <classifier>client</classifier>
+</dependency>
+
+After doing above, in Netbeans project goto Dependencies->phoenix-4.2.0.2.2.0.0-2041-client.jar (install manually)
+Point to the location in filesystem where this jar is placed. Simple.
 
 Installing Apache Tomcat:
 1. #cd /opt

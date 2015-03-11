@@ -192,3 +192,10 @@ Installing Apache Tomcat:
  <role rolename="admin-gui"/>
  <role rolename="admin-script"/>
  <user username="admin" password="admin" roles="manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script"/>
+
+
+
+
+Miscellaneous:
+
+http://www.adam-bien.com/roller/abien/entry/hello_javaee_7_with_maven

@@ -154,3 +154,41 @@ public class phoenixTest
 
 #javac phoenixTest.java
 #java -cp ".:/usr/hdp/2.2.0.0-2041/phoenix/phoenix-4.2.0.2.2.0.0-2041-client.jar" phoenixTest
+
+
+Installing Apache Tomcat:
+1. #cd /opt
+   #wget http://ftp.nluug.nl/internet/apache/tomcat/tomcat-8/v8.0.9/bin/apache-tomcat-8.0.9.zip
+   #unzip apache-tomcat-8.0.9.zip
+   #mv apache-tomcat-8.0.9 tomcat
+   
+2. #vi /etc/profile.d/script.sh
+   #!/bin/bash
+   CATALINA_HOME=/opt/tomcat
+   PATH=$CATALINA_HOME/bin:$PATH
+   export PATH CATALINA_HOME
+   export CLASSPATH=.
+   
+3. #chmod +x /etc/profile.d/script.sh
+4. #source /etc/profile.d/script.sh
+5. #chmod +x $CATALINA_HOME/bin/startup.sh
+   #chmod +x $CATALINA_HOME/bin/shutdown.sh
+   #chmod +x $CATALINA_HOME/bin/catalina.sh
+   
+6. Changing tomcat port
+   Locate server.xml in {Tomcat installation folder}\ conf \
+   Find:
+   <Connector port="8080" maxHttpHeaderSize="8192"
+               maxThreads="150" minSpareThreads="25" maxSpareThreads="75"
+               enableLookups="false" redirectPort="8443" acceptCount="100"
+               connectionTimeout="20000" disableUploadTimeout="true" />
+   Change port number to whatever say (8181 from 8080)
+   
+7. #vi  $CATALINA_HOME/conf/tomcat-users.xml
+ <role rolename="manager-gui"/>
+ <role rolename="manager-script"/>
+ <role rolename="manager-jmx"/>
+ <role rolename="manager-status"/>
+ <role rolename="admin-gui"/>
+ <role rolename="admin-script"/>
+ <user username="admin" password="admin" roles="manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script"/>

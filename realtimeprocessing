@@ -39,6 +39,6 @@ using below command in all three tutorials
 java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer localhost:9092 localhost:2181 &
 
 use this command
-java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer sanbox.hortonworks.com:6667 sanbox.hortonworks.com:2181 &
+java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer sandbox.hortonworks.com:6667 sandbox.hortonworks.com:2181 &
 
 I'll try to keep this updated.

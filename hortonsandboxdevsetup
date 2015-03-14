@@ -207,7 +207,17 @@ Installing Apache Tomcat:
  <user username="admin" password="admin" roles="manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script"/>
 
 
+Adding phoenix client jar to tomcats classpath
+1. #vim catalina.sh
+Locate below statement in the script and add /usr/hdp/2.2.0.0-2041/phoenix/phoenix-client.jar as shown below.
 
+# Add tomcat-juli.jar to classpath
+# tomcat-juli.jar can be over-ridden per instance
+if [ -r "$CATALINA_BASE/bin/tomcat-juli.jar" ] ; then
+  CLASSPATH=$CLASSPATH:$CATALINA_BASE/bin/tomcat-juli.jar:/usr/hdp/2.2.0.0-2041/phoenix/phoenix-client.jar
+else
+  CLASSPATH=$CLASSPATH:$CATALINA_HOME/bin/tomcat-juli.jar:/usr/hdp/2.2.0.0-2041/phoenix/phoenix-client.jar
+fi
 
 Miscellaneous:
 https://github.com/chadlung/RestJson

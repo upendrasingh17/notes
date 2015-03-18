@@ -56,7 +56,7 @@ Below is step by step process to bring up your development environment using Hor
 3. #yum -y groupinstall "Development tools";yum -y install zlib-devel;yum -y install bzip2-devel;yum -y install openssl-devel;yum -y install ncurses-devel;yum -y install openmpi openmpi-devel python-devel;yum -y install gfortran openblas-devel lapack-devel;yum -y install libfreetype6-devel libpng-devel;yum -y install unixODBC-devel
 4. #yum -y install libyaml-devel
 5. #yum -y install libffi-devel libxslt-devel libxslt libxml2-devel libxml2 libssl-devel
-6. #pip install numpy;pip install scipy;pip install pandas
+6. #pip install numpy;pip install scipy;pip install pandas;pip install scikit-learn;pip install pyleus
 7. Eclipse can be used as Python IDE. Goto link http://pydev.org/manual_101_install.html to know how to configure 
    eclipse for python development.
 

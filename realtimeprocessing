@@ -41,6 +41,14 @@ java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.Tr
 use this command
 java -cp target/Tutorial-1.0-SNAPSHOT.jar com.hortonworks.tutorials.tutorial1.TruckEventsProducer sandbox.hortonworks.com:6667 sandbox.hortonworks.com:2181 &
 
+
+For assemblylineevent:
+Generating events:
+java -cp target/AssemblyLineDataEventProcessing-1.0-SNAPSHOT.jar com.mycompany.assemblylinedataeventprocessing.AssemblyLineEventSimulator  sandbox.hortonworks.com:6667 sandbox.hortonworks.com:2181 &
+
+Depolying Topology:
+storm jar arget/AssemblyLineDataEventProcessing-1.0-SNAPSHOT.jar com.mycompany.assemblylinedataeventprocessing.AssemblyLineEventProcessingTopology
+
 To create a topic in kafka:
 bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic assemblylineevent
 

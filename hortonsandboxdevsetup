@@ -81,9 +81,16 @@ Scala should now be available via command line. Check by typing scala on the com
    Setting up Mahout:
 1. #yum install mahout
    
-   Setting up NodeJS and npm
+   Setting up NodeJS, npm and bower
 1. #yum install nodejs
 2. #yum install npm
+3. #npm install bower -g
+4. #bower -v
+
+   Setting up netbeans for app development:
+
+
+
 
 Note: Rest Hbase Client for NodeJS
 https://github.com/wdavidw/node-hbase

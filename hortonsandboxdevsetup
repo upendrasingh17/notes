@@ -91,6 +91,19 @@ Scala should now be available via command line. Check by typing scala on the com
 4. #bower -v
 
    Setting up netbeans for app development:
+1. Create HTML5 application
+2. npm install will work seamlessly but to ensure bower install to work look for "important files" folder 
+   look for .bowerrc and modify 
+   {
+      "directory": "app/bower_components"
+   }
+   
+   to 
+   {
+      "allow-root": true,
+      "directory": "app/bower_components"
+   }
+3. Now go ahead right click project and resolve project dependencies
 
 
 

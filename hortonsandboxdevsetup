@@ -46,7 +46,7 @@ Below is step by step process to bring up your development environment using Hor
 5. #yum install --nogpgcheck rstudio-server-0.98.1102-x86_64.rpm
 6. #cp /etc/pam.d/login /etc/pam.d/rstudio
 7. rstudio will not allow root user to login. Create a user for working in rstudio. 
-   Goto System->Administration->Users and Group->Add User
+   Goto System->Administration->Users and Group->Add User(rstudio/rstudio)
 8. Now goto link "http://localhost:8787". Login using new user created above. This should work fine.
 
    Setting up Python packages:

@@ -59,6 +59,9 @@ Below is step by step process to bring up your development environment using Hor
 6. #pip install numpy;pip install scipy;pip install pandas;pip install scikit-learn;pip install pyleus
 7. Eclipse can be used as Python IDE. Goto link http://pydev.org/manual_101_install.html to know how to configure 
    eclipse for python development.
+8. Installing ipython on Python2.6.6
+   #rm -rf /tmp/pip-build-root
+   #pip install 'ipython<2'
 
    Setting up Scala:
 1. Download Scala from http://www.scala-lang.org/download/2.11.5.html

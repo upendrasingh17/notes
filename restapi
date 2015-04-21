@@ -1,1 +1,3 @@
 Use RAML to design RESTful api. RAML file is base spec for api design.
+
+mvn archetype for quick restful web service start: jersey-quickstart-webapp

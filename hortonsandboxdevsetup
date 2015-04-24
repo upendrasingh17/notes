@@ -62,6 +62,7 @@ Below is step by step process to bring up your development environment using Hor
 8. Installing ipython on Python2.6.6
    #rm -rf /tmp/pip-build-root
    #pip install 'ipython<2'
+9. #pip install ipython[all]
 
    Setting up Scala:
 1. Download Scala from http://www.scala-lang.org/download/2.11.5.html

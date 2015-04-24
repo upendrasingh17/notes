@@ -63,6 +63,7 @@ Below is step by step process to bring up your development environment using Hor
    #rm -rf /tmp/pip-build-root
    #pip install 'ipython<2'
 9. #pip install ipython[all]
+10.#easy_install -U distribute
 
    Setting up Scala:
 1. Download Scala from http://www.scala-lang.org/download/2.11.5.html

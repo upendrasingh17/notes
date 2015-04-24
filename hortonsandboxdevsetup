@@ -65,6 +65,9 @@ Below is step by step process to bring up your development environment using Hor
 9. #pip install ipython[all]
 10.#easy_install -U distribute
 11.#pip install matplotlib
+12. Configure 'nbserver' profile using "http://ipython.org/ipython-doc/1/interactive/public_server.html"
+12.To run ipython:
+   #ipython notebook --profile=nbserver --no-mathjax
 
    Setting up Scala:
 1. Download Scala from http://www.scala-lang.org/download/2.11.5.html

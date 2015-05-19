@@ -1,3 +1,9 @@
 Use RAML to design RESTful api. RAML file is base spec for api design.
 
 mvn archetype for quick restful web service start: jersey-quickstart-webapp
+
+javascript express
+
+chrome postman
+
+creating rest apis using javascript express package: https://github.com/tonypujals/express-demo

@@ -115,4 +115,5 @@ enabled=1
                 Terminal 3 : storm ui
             Then went to http://localhost:8772 to view storm UI
 
+Good link: http://www.michael-noll.com/tutorials/running-multi-node-storm-cluster/
  

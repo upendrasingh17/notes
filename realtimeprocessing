@@ -60,3 +60,28 @@ bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 -
 
 To delete a topic in kafka:
 bin/kafka-run-class.sh kafka.admin.DeleteTopicCommand --zookeeper localhost:2181 --topic assemblylineevent
+
+
+
+Installing Storm on Cloudera Quickstart VM:
+
+1.ZeroMQ installation:
+ Edit vim /etc/yum.repos.d/zeromq.repo
+ 
+ [home_fengshuo_zeromq]
+name=The latest stable of zeromq builds (CentOS_CentOS-6)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/fengshuo:/zeromq/CentOS_CentOS-6/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/fengshuo:/zeromq/CentOS_CentOS-6/repodata/repomd.xml.key
+enabled=1
+
+2. Install Java Binding for ZeroMQ
+#cd /usr/local/src
+#git clone https://github.com/zeromq/jzmq
+#cd jzmq
+#./autogen
+#./configure
+#make
+#make install
+ 

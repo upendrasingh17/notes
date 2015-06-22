@@ -84,4 +84,35 @@ enabled=1
 #./configure
 #make
 #make install
+
+3.Installing Storm
+
+#Downloaded Storm from http://storm-project.net/downloads.html
+#Unzipped the tar file under /usr/share
+#Created a file storm.sh under /etc/profile.d/
+
+    added folowing line to the storm.sh export PATH=${PATH}:/usr/share/apache-storm-0.9.5/bin:
+
+#Modified the /usr/share/apache-storm-0.9.5/conf/storm.yaml to add following lines
+
+    storm.zookeeper.servers:
+    – “127.0.0.1”
+    nimbus.host: “localhost”
+    storm.local.dir: “/var/storm”
+    supervisor.slots.ports:
+    – 6700
+    – 6701
+    – 6702
+    – 6703
+    ui.port: 8772
+
+#Start Storm
+
+    I installed storm as root user…so had to launch all daemons as root. This was a bad choice. I should have created a Storm user and gave permission to /usr/share/storm-0.9.0.1 and /var/storm
+    Anyway, I launched three terminals, on each terminal I did su - root
+        Terminal 1 : storm nimbus
+            Terminal 2 : storm supervisor
+                Terminal 3 : storm ui
+            Then went to http://localhost:8772 to view storm UI
+
  

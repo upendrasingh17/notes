@@ -116,4 +116,12 @@ enabled=1
             Then went to http://localhost:8772 to view storm UI
 
 Good link: http://www.michael-noll.com/tutorials/running-multi-node-storm-cluster/
+
+Making PostGres Columnar:
+
+1. Install postgres using following link: http://www.unixmen.com/postgresql-9-4-released-install-centos-7/
+   Used CentOS 6.5 for installation.
+   
+2. Follow steps available in https://github.com/citusdata/cstore_fdw
+
  

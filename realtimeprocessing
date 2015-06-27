@@ -124,4 +124,9 @@ Making PostGres Columnar:
    
 2. Follow steps available in https://github.com/citusdata/cstore_fdw
 
+
+Realtime OpenTSDB + Phoenix + Spark:
+
+https://gist.github.com/abajwa-hw/6ebacc472a33334945bd
+
  

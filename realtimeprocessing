@@ -129,4 +129,8 @@ Realtime OpenTSDB + Phoenix + Spark:
 
 https://gist.github.com/abajwa-hw/6ebacc472a33334945bd
 
+Cassandra + SPARK(single machine):
+
+http://blog.knoldus.com/2015/06/23/apache-spark-cassandra-basic-steps-to-install-and-configure-cassandra-and-use-it-with-apache-spark-with-example/
+
  

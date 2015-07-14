@@ -20,3 +20,9 @@ Creating Custom CentOS6.5 Docker: https://www.youtube.com/watch?v=s948NKa1I1I
 NoSQL data modelling: https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
 
 Dimensional Data Modelling: http://www.kimballgroup.com/2009/05/the-10-essential-rules-of-dimensional-modeling/
+
+TimeSeriesAnamolyDetection System:
+
+https://github.com/tdunning/anomaly-detection
+
+https://github.com/pollo/anomaly_detection

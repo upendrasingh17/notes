@@ -25,6 +25,9 @@ TimeSeriesAnamolyDetection System:
 
 https://github.com/tdunning/anomaly-detection
 
+REST using flask:
+https://github.com/miguelgrinberg/api-pycon2014
+
 OLAP cube analytics:
 https://www.youtube.com/watch?v=pyUsp8qc7hg
 

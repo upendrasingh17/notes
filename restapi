@@ -38,3 +38,7 @@ https://github.com/pollo/anomaly_detection
 Execnet Tutorial:
 
 http://streamhacker.com/2009/11/29/distributed-nltk-execnet/
+
+Python to julia bridge:
+
+https://github.com/JuliaLang/pyjulia

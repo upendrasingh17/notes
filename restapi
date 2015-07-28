@@ -42,3 +42,10 @@ http://streamhacker.com/2009/11/29/distributed-nltk-execnet/
 Python to julia bridge:
 
 https://github.com/JuliaLang/pyjulia
+
+
+SparkSQL1.4:
+
+Windows Function: https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
+
+SparkSQL JDBC: https://github.com/sujee81/SparkApps

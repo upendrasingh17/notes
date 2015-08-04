@@ -133,4 +133,6 @@ Cassandra + SPARK(single machine):
 
 http://blog.knoldus.com/2015/06/23/apache-spark-cassandra-basic-steps-to-install-and-configure-cassandra-and-use-it-with-apache-spark-with-example/
 
- 
+Kafka C++ Producer:
+
+https://github.com/bitbouncer/csi-kafka

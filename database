@@ -11,6 +11,8 @@ https://dev.mysql.com/doc/refman/5.0/en/binary-log.html
 
 PostGres:
 
-
 Kafka Performance:
 https://wikitech.wikimedia.org/wiki/Analytics/Cluster/Kafka/Capacity
+
+JDBC:
+http://www.mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-out-parameter-example/

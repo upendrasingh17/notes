@@ -16,3 +16,9 @@ https://wikitech.wikimedia.org/wiki/Analytics/Cluster/Kafka/Capacity
 
 JDBC:
 http://www.mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-out-parameter-example/
+
+NoSQL:
+Fact and Dimensions and Apache Phoenix
+
+https://blogs.apache.org/phoenix/entry/olap_with_apache_phoenix_and
+http://www.meteorite.bi/products/saiku

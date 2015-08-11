@@ -136,3 +136,7 @@ http://blog.knoldus.com/2015/06/23/apache-spark-cassandra-basic-steps-to-install
 Kafka C++ Producer:
 
 https://github.com/bitbouncer/csi-kafka
+
+
+Kafka + Avro + Storm:
+https://github.com/ransilberman/avro-kafka-storm

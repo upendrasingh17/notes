@@ -141,3 +141,5 @@ https://github.com/ransilberman/avro-kafka-storm
 Amazon Kinessis + Storm:
 https://github.com/awslabs/kinesis-storm-spout
 
+Storm + s3:
+https://github.com/wurstmeister/storm-s3

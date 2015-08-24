@@ -28,6 +28,12 @@ https://github.com/tdunning/anomaly-detection
 REST using flask:
 https://github.com/miguelgrinberg/api-pycon2014
 
+Good tutorials for writing rest service using flask:
+http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+http://blog.miguelgrinberg.com/post/writing-a-javascript-rest-client
+
+
+
 OLAP cube analytics:
 https://www.youtube.com/watch?v=pyUsp8qc7hg
 

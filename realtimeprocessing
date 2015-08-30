@@ -149,4 +149,15 @@ https://github.com/hdinsight/hdinsight-storm-examples/blob/master/IotExample/iot
 
 Data Pipeline:
 AWS: AWS Data Pipeline
+Getting Started Developer Guide
+http://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-hive.html
+
 Azure: Data Factory
+Step1: https://azure.microsoft.com/en-in/documentation/articles/data-factory-create-datasets/
+Step2: https://azure.microsoft.com/en-in/documentation/articles/data-factory-create-pipelines/
+Step3: https://azure.microsoft.com/en-in/documentation/articles/data-factory-data-movement-activities/
+Step4: https://azure.microsoft.com/en-in/documentation/articles/data-factory-data-transformation-activities/
+       (In Step4 select Hive u will reach Step5)
+Step5: https://azure.microsoft.com/en-in/documentation/articles/data-factory-hive-activity/
+Step6: https://azure.microsoft.com/en-in/documentation/articles/data-factory-monitor-manage-pipelines/

@@ -9,20 +9,21 @@ chrome postman
 creating rest apis using javascript express package: https://github.com/tonypujals/express-demo
 
 UI development:
-
 learn to start using vaadin
 
 Statistics Book:
 Discovering Statistics Using R
 
-Creating Custom CentOS6.5 Docker: https://www.youtube.com/watch?v=s948NKa1I1I
+Creating Custom CentOS6.5 Docker: 
+https://www.youtube.com/watch?v=s948NKa1I1I
 
-NoSQL data modelling: https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+NoSQL data modelling: 
+https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
 
-Dimensional Data Modelling: http://www.kimballgroup.com/2009/05/the-10-essential-rules-of-dimensional-modeling/
+Dimensional Data Modelling: 
+http://www.kimballgroup.com/2009/05/the-10-essential-rules-of-dimensional-modeling/
 
 TimeSeriesAnamolyDetection System:
-
 https://github.com/tdunning/anomaly-detection
 
 REST using flask:
@@ -32,28 +33,26 @@ Good tutorials for writing rest service using flask:
 http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 http://blog.miguelgrinberg.com/post/writing-a-javascript-rest-client
 
-
-
 OLAP cube analytics:
 https://www.youtube.com/watch?v=pyUsp8qc7hg
 
-Hive Upgrade: http://hadooptutorial.info/upgrading-hive-0-13-1-to-hive-0-14-0-version/#solution2
+Hive Upgrade:
+http://hadooptutorial.info/upgrading-hive-0-13-1-to-hive-0-14-0-version/#solution2
 
+Anomaly Detection:
 https://github.com/pollo/anomaly_detection
 
 Execnet Tutorial:
-
 http://streamhacker.com/2009/11/29/distributed-nltk-execnet/
 
 Python to julia bridge:
-
 https://github.com/JuliaLang/pyjulia
 
-
 SparkSQL1.4:
-
 Windows Function: https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
 
-SparkSQL JDBC: https://github.com/sujee81/SparkApps
+SparkSQL JDBC:
+https://github.com/sujee81/SparkApps
 
-SparkCSV: https://github.com/databricks/spark-csv
+SparkCSV:
+https://github.com/databricks/spark-csv

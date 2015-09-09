@@ -161,3 +161,6 @@ Step4: https://azure.microsoft.com/en-in/documentation/articles/data-factory-dat
        (In Step4 select Hive u will reach Step5)
 Step5: https://azure.microsoft.com/en-in/documentation/articles/data-factory-hive-activity/
 Step6: https://azure.microsoft.com/en-in/documentation/articles/data-factory-monitor-manage-pipelines/
+
+Azure Storm Cluster:
+https://azure.microsoft.com/en-in/documentation/articles/hdinsight-apache-storm-tutorial-get-started/

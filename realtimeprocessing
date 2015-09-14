@@ -164,3 +164,6 @@ Step6: https://azure.microsoft.com/en-in/documentation/articles/data-factory-mon
 
 Azure Storm Cluster:
 https://azure.microsoft.com/en-in/documentation/articles/hdinsight-apache-storm-tutorial-get-started/
+
+Storm JDBC Topology:
+https://github.com/apache/storm/tree/master/external/storm-jdbc/src/test/java/org/apache/storm/jdbc/topology

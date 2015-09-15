@@ -1,0 +1,17 @@
+Disabling firewall:
+#sudo ufw disable
+
+Allowing root login:
+#vim /etc/ssh/sshd_config
+
+Change this line in /etc/ssh/sshd_config:
+
+PermitRootLogin without-password
+
+to
+
+PermitRootLogin yes
+
+And restart the SSH server:
+#sudo service ssh restart
+

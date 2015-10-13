@@ -56,3 +56,11 @@ https://github.com/sujee81/SparkApps
 
 SparkCSV:
 https://github.com/databricks/spark-csv
+
+Git commit commands:
+
+git clone <repo>
+modify the file
+git add <filename>
+git commit -m "Description"
+git push origin master

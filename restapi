@@ -70,3 +70,6 @@ pip install -e "git://github.com/FelixLoether/flask-uploads#egg=Flask-Uploads"
 
 Celery + RabbitMQ + Windows:
 http://eon01.com/blog/celery-worker-rabbitmq-broker-step-by-step-introduction/
+
+Flask + Celery Example:
+https://github.com/miguelgrinberg/flask-celery-example

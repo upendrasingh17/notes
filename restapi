@@ -67,3 +67,6 @@ git push origin master
 
 Installing Flask-Uploads:
 pip install -e "git://github.com/FelixLoether/flask-uploads#egg=Flask-Uploads"
+
+Celery + RabbitMQ + Windows:
+http://eon01.com/blog/celery-worker-rabbitmq-broker-step-by-step-introduction/

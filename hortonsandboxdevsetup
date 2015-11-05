@@ -259,3 +259,6 @@ Installing Spark on Horton Sandbox:
 
 RDP into linux vm:
 http://www.itzgeek.com/how-tos/linux/centos-how-tos/install-xrdp-remote-desktop-to-centos-6-rhel-6.html#axzz3YhkgIbV4
+
+PySpark configuration:
+http://blog.cloudera.com/blog/2015/09/how-to-prepare-your-apache-hadoop-cluster-for-pyspark-jobs/

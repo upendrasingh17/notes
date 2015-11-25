@@ -170,3 +170,15 @@ https://github.com/apache/storm/tree/master/external/storm-jdbc/src/test/java/or
 
 Installing Storm and Kafka on Azure:
 http://wiki.epfl.ch/bigdata2015-hypercubejoins/stormazureinstallation
+
+Pyspark and PyCharm integration:
+0. Configure Maven
+1. Download spark 
+2. Goto spark main folder:
+# export MAVEN_OPTS="-XX:MaxPermSize=1024M"
+# mvn -DskipTests clean package
+3. add below in pycharm script
+export SPARK_HOME=/root/spark-1.4.1/
+export PYTHONPATH=$PYTHONPATH:/root/spark-1.4.1/python
+
+This will ensure pycharm will have auto complete enabled for pyspark modules

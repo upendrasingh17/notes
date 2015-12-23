@@ -1,0 +1,4 @@
+pip install ipython[all]
+ipython create profile default
+ipython notebook --profile=defalt --ip=* --port=9999
+access the notebook http://[ip]:[port]

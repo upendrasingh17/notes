@@ -75,3 +75,6 @@ Flask + Celery Example:
 https://github.com/miguelgrinberg/flask-celery-example
 
 https://denibertovic.com/posts/celery-best-practices/
+
+Flask + Pyspark 
+https://github.com/jadianes/spark-movie-lens

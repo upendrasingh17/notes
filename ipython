@@ -2,3 +2,8 @@ pip install ipython[all]
 ipython create profile default
 ipython notebook --profile=defalt --ip=* --port=9999
 access the notebook http://[ip]:[port]
+
+pyspark ipython usage:
+
+#ln -sf $SPARK_HOME spark
+#IPYTHON_OPTS="notebook --ip=* --port=9999" spark/bin/pyspark

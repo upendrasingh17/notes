@@ -37,6 +37,7 @@ Below is step by step process to bring up your development environment using Hor
     Setting up R packages:
     For R packages to successfully installed we need to set up development environment first:
     R by default is not available in the system. Let's install that first
+0. y#um install -y epel-release
 1. #yum install R
    This should install lots of packages which are dependencies for R
 2. Check the installation of R by starting it from console. You should get R command line.

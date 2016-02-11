@@ -263,3 +263,6 @@ http://www.itzgeek.com/how-tos/linux/centos-how-tos/install-xrdp-remote-desktop-
 
 PySpark configuration:
 http://blog.cloudera.com/blog/2015/09/how-to-prepare-your-apache-hadoop-cluster-for-pyspark-jobs/
+
+Stream processing with spring kafka:
+http://msvaljek.blogspot.in/2015/12/stream-processing-with-spring-kafka_13.html

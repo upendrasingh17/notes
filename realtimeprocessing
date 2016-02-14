@@ -182,3 +182,13 @@ export SPARK_HOME=/root/spark-1.4.1/
 export PYTHONPATH=$PYTHONPATH:/root/spark-1.4.1/python
 
 This will ensure pycharm will have auto complete enabled for pyspark modules
+
+Deep Dive Into SparkRDD:
+https://www.youtube.com/watch?v=WVdyuVwWcBc
+
+Deep Dive Into Dataframe API:
+https://www.youtube.com/watch?v=iKOGBr-kOks
+
+Deep Dive Spark Streaming:
+https://www.youtube.com/watch?v=OFbClndwjps
+

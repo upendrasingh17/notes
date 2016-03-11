@@ -195,3 +195,5 @@ https://www.youtube.com/watch?v=OFbClndwjps
 Kafka on Google Cloud Engine:
 http://sookocheff.com/post/kafka/deploying-kafka-to-gce/
 
+Celery + Multiprocessing + Code:
+http://stackoverflow.com/questions/29874443/starting-celery-worker-from-multiprocessing

@@ -81,3 +81,6 @@ https://github.com/jadianes/spark-movie-lens
 
 https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1
 https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part2
+
+Multitenancy Using Flask and Postgres
+http://gurchet-rai.net/flask-postgres-multitenancy.html

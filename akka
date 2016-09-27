@@ -10,3 +10,5 @@ https://github.com/kamon-io/kamon-akka-http
 https://github.com/kamon-io/docker-grafana-graphite
 
 http://michalplachta.com/2016/01/23/scalability-using-sharding-from-akka-cluster/
+
+https://github.com/sclasen/akka-zk-cluster-seed

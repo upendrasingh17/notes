@@ -59,5 +59,9 @@ clocker.io
 
 https://vexxhost.com/resources/tutorials/how-to-create-a-high-availability-haproxy-setup-with-corosync-pacemaker-and-floating-ips-on-ubuntu-14-04/
 
+https://elk-docker.readthedocs.io/
 
+https://github.com/tarhelypark/nginx-confd-etcd
+
+https://hub.docker.com/r/gliderlabs/registrator/
 www.pathmigration.com

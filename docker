@@ -1,3 +1,7 @@
 http://nickjanetakis.com/blog/dockerize-a-flask-celery-and-redis-application-with-docker-compose
 
 http://containertutorials.com/docker-compose/nginx-flask-postgresql.html
+
+https://botleg.com/stories/load-balancing-with-docker-swarm/
+
+https://botleg.com/stories/auto-scaling-with-docker/

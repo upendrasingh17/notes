@@ -11,3 +11,5 @@ http://www.thegeekstuff.com/2016/02/docker-machine-create-generic/
 https://docs.docker.com/machine/drivers/generic
 
 http://stackoverflow.com/questions/34810779/docker-swarm-cannot-connect-to-the-docker-engine-endpoint
+
+https://github.com/jbrisbin/akka-http-docker

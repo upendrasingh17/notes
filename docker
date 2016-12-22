@@ -14,3 +14,5 @@ http://stackoverflow.com/questions/34810779/docker-swarm-cannot-connect-to-the-d
 
 Akka Http Client based Docker API Client
 https://github.com/jbrisbin/akka-http-docker
+
+http://stackoverflow.com/questions/434718/sockets-discover-port-availability-using-java

@@ -16,3 +16,5 @@ Akka Http Client based Docker API Client
 https://github.com/jbrisbin/akka-http-docker
 
 http://stackoverflow.com/questions/434718/sockets-discover-port-availability-using-java
+
+https://github.com/JoelJ/DockerTutorials/blob/master/network/zookeeper-overlay.md

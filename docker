@@ -32,3 +32,6 @@ http://www.smartjava.org/content/service-discovery-docker-and-consul-part-2
 https://github.com/muller/docker-compose-akka-cluster
 
 https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/
+
+Network Configuration:
+https://gist.github.com/kgriffs/4027835

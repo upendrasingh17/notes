@@ -43,3 +43,9 @@ https://github.com/ManoMarks/docker-swarm-visualizer
 http://portainer.io/
 
 http://jmkhael.io/load-balance-a-swarm-service-behind-ha-proxy-with-automatic-reconfiguration/
+
+https://grafana.net/dashboards/609
+
+https://github.com/bvis/docker-prometheus-swarm
+
+https://github.com/stefanprodan/dockprom

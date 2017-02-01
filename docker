@@ -55,3 +55,5 @@ https://github.com/bluecmd/prometheus-docs/blob/master/content/docs/alerting/ale
 https://github.com/typesafehub/constructr-zookeeper
 
 https://www.ctl.io/developers/blog/post/monitoring-docker-services-with-prometheus/
+
+http://www.levvel.io/blog-post/running-distributed-docker-swarm-on-aws/

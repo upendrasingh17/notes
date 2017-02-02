@@ -77,3 +77,6 @@ http://dearjunior.blogspot.in/2011/05/how-heavy-is-estragon-event-based-scala.ht
 https://hackernoon.com/akka-cluster-in-docker-a-straight-forwards-configuration-b6deea32752d#.n0a9o61u8
 
 http://doc.akka.io/docs/akka-http/current/scala/http/configuration.html
+
+http://paoloambrosio.net/2016/12/14/akka-location-transparency.html
+https://github.com/paoloambrosio/experiments/tree/akka-location-transparency

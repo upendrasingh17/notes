@@ -63,3 +63,6 @@ http://blog.haproxy.com/2012/10/12/scalable-waf-protection-with-haproxy-and-apac
 http://blog.haproxy.com/2012/10/16/high-performance-waf-platform-with-naxsi-and-haproxy/
 
 https://www.nginx.com/blog/docker-swarm-load-balancing-nginx-plus/
+
+CPU Load generator:
+http://www.codegists.com/code/cpu-load-test/

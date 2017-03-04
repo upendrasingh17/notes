@@ -84,3 +84,5 @@ https://github.com/paoloambrosio/experiments/tree/akka-location-transparency
 https://github.com/botekchristophe/akka-http-cluster-remote
 
 http://doc.akka.io/docs/akka-http/current/scala/http/routing-dsl/source-streaming-support.html
+
+http://stackoverflow.com/questions/41297334/akka-http-performance-tuning

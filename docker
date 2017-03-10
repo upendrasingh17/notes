@@ -76,3 +76,6 @@ https://success.docker.com/KBase/Docker_Reference_Architecture%3A_Universal_Cont
 https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/
 
 http://www.blackfinsecurity.com/docker-swarm-with-tls-authentication/
+
+Token authentication:
+https://docs.docker.com/swarm/swarm-api/#authenticate-using-registry-tokens

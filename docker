@@ -79,3 +79,5 @@ http://www.blackfinsecurity.com/docker-swarm-with-tls-authentication/
 
 Token authentication:
 https://docs.docker.com/swarm/swarm-api/#authenticate-using-registry-tokens
+
+https://blog.docker.com/2017/02/docker-secrets-management/

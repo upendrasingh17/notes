@@ -84,3 +84,7 @@ https://blog.docker.com/2017/02/docker-secrets-management/
 
 Setting up aws docker swarm
 https://gist.github.com/ghoranyi/f2970d6ab2408a8a37dbe8d42af4f0a5
+
+https://github.com/docker/dockercloud-haproxy
+
+https://github.com/jlabusch/docker-naxsi-proxy-waf

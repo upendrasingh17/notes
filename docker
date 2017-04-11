@@ -100,3 +100,6 @@ http://blog.nigelpoulton.com/demystifying-docker-overlay-networking/
 http://www.labouisse.com/how-to/2017/02/09/docker-secrets-with-lets-encrypt
 
 https://robinwinslow.uk/2016/06/23/fix-docker-networking-dns/
+
+Docker service discovery:
+http://collabnix.com/archives/1504

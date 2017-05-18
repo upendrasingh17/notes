@@ -7,3 +7,5 @@ pyspark ipython usage:
 
 #ln -sf $SPARK_HOME spark
 #IPYTHON_OPTS="notebook --ip=* --port=9999" spark/bin/pyspark
+
+https://pymotw.com/3/abc/

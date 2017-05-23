@@ -9,3 +9,5 @@ pyspark ipython usage:
 #IPYTHON_OPTS="notebook --ip=* --port=9999" spark/bin/pyspark
 
 https://pymotw.com/3/abc/
+
+http://ankurankan.github.io/blog/2014/06/03/custom-assert-method-in-python/

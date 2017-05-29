@@ -5,5 +5,154 @@ String Algorithms:
 String search
 Data Structures to store strings
 
+Dynamic Programming Problems:
+1. Find length of the longest substring of a given string of digits, such that sum of digits in the first half and second half is the same.
+
+2. Given an empty plotof size 2 x n. We want to place tiles  such that the entire plot is covered. Each tile is of the size 2 x 1 and can 
+be placed either horizontally or vertically.Write a function to accept n as input and return the total number of ways in which we can place
+the tiles.
+
+3. If size of the plot in 2 is changed to 3 * n, then what changes we need to do in the solution?
+
+4. Consider a game where player can score 3,5 or 10 points in one move. Given a total score N, find the total number of unique ways to
+reach the score of N.
+
+5. What is the total number of ways to reach a particular score if (10,3) and (3,10) are considered the same?
+
+6. Given an array of integers, write a function that returns the maximum of the sub array, such that the elements are contiguous.
+
+7. Edit distance: Given two strings str1 and str2 and following three operations that can be performed on str1.
+Insert, Remove and Replace. Find the minimum number of operations required to convert str1 to str2.
+
+8. Given a two dimensional array, find the total number of paths possible from top-left cell to botton-right cell if we are allowed to
+move only rightward and downward.
+
+9. Given a two dimensional grid where there is a horizontal and vertical road after each kilometer. You are at theorigin(0,0) and want to 
+goto point (x,y). What is the total number of unique routes that you can take if you are allaowed to move in forward and upward directions?
+
+10. A variation to the problem asked in 9 is that, at some places there is repair going on and hence you cannot take those routes.
+Unavailable route information may be given in the form of point array(eg from point (2,1) to point (3,1) the route is not available).
+
+11. What if in question 10 you are allowed to move in diagonal direction as well? How will you logic change for recursive and dynamic 
+solutions?
+
+12. Minimum chess moves problem: In chess we have designed a special piece that can move either like a knight or like a king.
+Given that P is in a particular cell and you wanna move it to another cell then what is the minumum number of moves it takes P to go 
+from source to destination. Write a function that accepts source and destination cells and returns the minimum number of moves
+it will take P to move from source to destination.
+
+13. String interleaving: String C is said to be interleaving of String A and B if it contains all the characters in of A and B and the
+relative order of characters of both the strings are preserved in C.
+Given three strings A, B and C, write a function to check if the third string is the interleaving of first and second strings.
+
+14. Given two strings print all the inter leavings of the string.
+
+15. Subset sum: Given an array of non negative integers and a positive  numver X, determine if there exists a subset of elements of the
+array with sum equal to X.
+
+16. Longest Common Subsequence: A subsequence of string S, is a set of characters that appear in the string in left to right order,
+but not necessarily consecutively. A string of length n can have 2^n subsequences. A common subsequence of two strings is a subsequence 
+that is subsequence of both strings. A longest common subsequence (LCS) is a common subsequence of maximal length. 
+Given two strings, write a function that returns the total number of characters in their Longest Common Subsequence(LCS).
+
+17. Given an array of integers write code that returns length of longest monotonically increasing subsequence in array.
+
+18. In question 17 also print longest monotonically increasing subsequence in the array.
+
+19. A sequence is bitonic if it is first monotonically increasing and then monotonically decreases. 
+Write a function that accepts an array of integers and returns the length of the longest bitonic subsequence in the array.
+Please note that a sequence in increasing order is bitonic with empty decreasing part and similarly a sequence in decreasing order 
+is bitonic with empty increasing part.
+
+20. In question 19 also print the longest bitonic subsequence in an array.
+
+21. Coin Change Problem: Given an infinite supply of coins of N different denominations values(v1, v2, ..., vN). Find the minimum
+number of coins that sum upto a number S.
+
+23. Modify the question 21 to find total number of ways we can make the change of amounts using the coins of given denominations.
+
+24. Cutting a rod: Given an iron rod of a certain length and price of selling rods of different lengths in the market, how should
+we cut the rod so that the profit is maximized.
+
+25. 0-1 Knapsack problem: Given n items in a shop, where each item has a weight and a value. A theif breaks into the shop with knapsack.
+The theif can carry a maximum weight C. Items cannot be broken or taken partially. Each item has to be either picked or left completely.
+What is the maximum value a theif can carry?
+
+26. Longest Palindromic Subsequence: A subsequence of a string is th sequence of characters in the same relative order as they appear in
+the original string. Given a string, find the length of the longest subsequence that is also palindrome.
+
+27. Dropping eggs probem: We have two identical eggs and access to a 100 floor building. We dont know how strong the eggs are. Eggs 
+can be really strong and may not break even when dropped from 100th floor or they may be fragile and break if dropped from first floor
+itself. We want the highest floor from where eggs can be dropped without breaking it. In the process, we are allowed to break both the 
+eggs. Question is, at least how many times do we need to drop, to find the answer(highest floor from where eggs start breaking)
+
+28. Maximum value contiguous subsequence: Given an array of n numbers, give an algorithm for finding a contiguous subsequence A(i)...A(j)
+for which the sum of the elements is maximum.
+
+29. Given a sequence of n numbers A(1)...A(n), give an algorithm for finding contiguous subsequence A(i)..A(j) for which the sum of the
+elements in the subsequence is maximum. Here the condition is we should not select two contiguous numbers.
+
+30. Given a sequence of n numbers A(1)...A(n), give an algorithm for finding contiguous subsequence A(i)..A(j) for which the sum of the
+elements in the subsequence is maximum. Here the condition is we should not select three contiguous numbers.
+
+31. There are n petrol stations along a circular route, where the amount of petrol at station i is petrol[i]. You have a car with an 
+unlimited petrol tank and it costs cost[i] of petrol to travel from station i to its next station (i+1). You begin the journey with
+empty tank at one of the petrol stations. Return the starting petrol station's index if you can travel around the circuit once, otherwise
+return -1.
+
+32. Catlan Number: How many binary search trees are there with n vertices?
+
+33. Integer knapsack problem(with duplicate permitted)
+
+34. 0-1 Knapsack problem: For problem 33, how do we solve it if the items are not duplicated (not having an infinite numbers of items
+for each type, and each item is allowed to be used 0 or 1 time)?
+
+35. Box stacking: Assume that we are given a set of n rectangular 3-d boxes. The dimensions of ith box are height 'hi', width 'wi' and
+depth 'di'. Now we want to create stack of boxes which is as tall as possible, but we can only stack a box on top of another box if 
+the dimensions of the 2-d base of the lower box are each strictly larger than those of the 2-d base of the higher box. We can rotate
+a box so that any side functions as its base. It is possible to use multiple instances of the same type of the box.
+
+36. Subset sum: Given a sequence of n positive numbers A(1)...A(n) give an algorithm which checks whether there exists a subset of
+A whose sum of all numbers is T?
+
+37. Given a set of n integers and the sum of all the numbers is at most if. Find the subset of these n elements whose sum is exactly 
+half of the total sum of n numbers.
+
+38: Partition: Problem is to determine whether a given set can be partitioned into two subsets such that  the sum of elements in both 
+subset is the same.
+
+39. Counting Boolean Parenthesizations: Let us assume that we are given a boolean expression consisting of symbols 'true','false',
+'and','or','xor'. Find the number of ways to parenthesize the expression such that it will evaluate to true.
+
+40. Optimal binary search tree.
+
+41. Floyd warshall algorithm.
+
+42. Optimal strategy for a game: Consider a row of n coins of value v1....vn where n is even(since its a two player game!). We play this 
+game with the opponent. In each turn, a player selects either first or last coin from the row, removes it from the row prermanently,
+and recieves the value of the coin. Determine the maximum possible ammount of money we can definitely win if we move first.
+
+43. Longest palindrome substring: Given a string A, we need to find the longest sub-string of A such that the reverse of it is exactly 
+the same.
+
+44. Given two string S and T, give an algorithm to find the number of times S appears in T. It is not compulsory that all characters of 
+S should appear contiguous to T
+
+45. Maximum size square sub-matrix with all 1s: Given a matrix with 0 and 1, give an algorithm for finding the maximum size square
+sub-matrix with all the 1s.
+
+46.Maximum size sub-matrix(not necessarily square!) with all 1s.
+
+47. Maximum sum sub-matrix: Given nxn matrix M of positive and negative integers, give an algorithm to find the sub-matrix with largest
+sum possible.
+
+48. Finding optimal number of jumps to reach last element: Given an array, start from the first element and reach the last by jumping.
+The jump length can be at most the value at the current position in the array. The optimum result is when you reach the goal in the minimum 
+number of jumps.
+
+
+
+
+
 SQL using MySQL
 SparkSQL using 

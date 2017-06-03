@@ -14,6 +14,9 @@ Dynamic Programming for Coding Interviews(DPCI)
    2.1 Linked Lists(DSAT{3,4,5})
    2.2 Trees and Symbol Tables(DSAT{6,7,8,13,14})
    
+3. Data Algorithms Orielly(minus Data Science Algorithms):
+  
+   
 Dynamic Programming Problems:
 1. Find length of the longest substring of a given string of digits, such that sum of digits in the first half and second half is the same.
 

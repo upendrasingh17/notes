@@ -16,3 +16,6 @@ And restart the SSH server:
 #sudo service ssh restart
 
 https://hostpresto.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-14-04/
+
+Installing ubuntu desktop on ubuntu server:
+#tasksel

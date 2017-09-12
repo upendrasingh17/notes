@@ -110,3 +110,6 @@ Docker Swarm Monitoring
 https://gist.github.com/mrlesmithjr/fee547c08444bcbb22a10db5c2d74828
 
 https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/
+
+Running priviledge mode in docker swarm
+https://hub.docker.com/r/elifa/swarm-proxy/

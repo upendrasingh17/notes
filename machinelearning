@@ -21,28 +21,48 @@ https://github.com/irvingc/dbscan-on-spark
 
 https://ziyan.net/2014/04/web-content-extraction-through-machine-learning/
 
-Udemy Sequence of Letures:
+Plan2018:
+
+Base:
+0. Linear Algebra, Probability and Statistics(Book)
+1. Fundamentals of machine learning - MIT(Book)
+2. Graph Theory(Book)
+
+Platform:
+1. Introduction to Scala(Book)
+2. Functional Programming in Scala Specialization(Course)
+3. Spark in Action(Book)
+4. Spark GraphX in Action(Book)
+
+Machine Learning(Scala):
+1. Reactive Machine Learning Systems(Book)
+2. Scala For Machine Learning(Book)
+
+
+Machine| Deep Learning(Python)
+1. Udemy Sequence of Letures:
 
 Lazy Programmer:
+1.(The Numpy Stack in Python)
+2.Linear Regression in Python
+3.Logistic Regression in Python
+4.(Supervised Machine Learning in Python)
+5.(Bayesian Machine Learning in Python: A/B Testing)
+6.Deep Learning in Python
+7.Practical Deep Learning in Theano and TensorFlow
+8.(Supervised Machine Learning in Python 2: Ensemble Methods)
+9.Convolutional Neural Networks in Python
+10.(Easy NLP)
+11.(Cluster Analysis and Unsupervised Machine Learning)
+12.Unsupervised Deep Learning
+13.(Hidden Markov Models)
+14.Recurrent Neural Networks in Python
+15.Artificial Intelligence: Reinforcement Learning in Python
+16.Natural Language Processing with Deep Learning in Python
+17.Advanced AI: Deep Reinforcement Learning in Python
+18.Deep Learning: GANs and Variational Autoencoders
 
-(The Numpy Stack in Python)
-Linear Regression in Python
-Logistic Regression in Python
-(Supervised Machine Learning in Python)
-(Bayesian Machine Learning in Python: A/B Testing)
-Deep Learning in Python
-Practical Deep Learning in Theano and TensorFlow
-(Supervised Machine Learning in Python 2: Ensemble Methods)
-Convolutional Neural Networks in Python
-(Easy NLP)
-(Cluster Analysis and Unsupervised Machine Learning)
-Unsupervised Deep Learning
-(Hidden Markov Models)
-Recurrent Neural Networks in Python
-Artificial Intelligence: Reinforcement Learning in Python
-Natural Language Processing with Deep Learning in Python
-Advanced AI: Deep Reinforcement Learning in Python
-Deep Learning: GANs and Variational Autoencoders
+19.Real world Machine Learning(Book)
 
 
 https://www.microsoft.com/reallifecode/2016/09/13/training-a-classifier-for-relation-extraction-from-medical-literature/

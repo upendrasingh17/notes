@@ -115,3 +115,6 @@ Running priviledge mode in docker swarm
 https://hub.docker.com/r/elifa/swarm-proxy/
 
 https://github.com/IcaliaLabs/guides/wiki/Deploy-and-Secure-a-Remote-Docker-Engine
+
+Docker Swarm AutoScaler:
+https://github.com/gianarb/orbiter

@@ -7,3 +7,6 @@ http://www.serverlab.ca/tutorials/linux/network-services/deploy-keepalived-load-
 https://www.digitalocean.com/community/tutorials/how-to-set-up-highly-available-haproxy-servers-with-keepalived-and-floating-ips-on-ubuntu-14-04
 
 https://www.acritelli.com/persistent-password-ssh-on-aws-amis/
+
+Docker-Machine DockerSwarm:
+https://gist.github.com/ghoranyi/f2970d6ab2408a8a37dbe8d42af4f0a5

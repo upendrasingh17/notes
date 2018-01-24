@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=NemEp53yGbI
 
 Spark and PySpark Interoperability:
 http://aseigneurin.github.io/2016/09/01/spark-calling-scala-code-from-pyspark.html
+
+Spark + Docker + Mesos:
+https://github.com/berngp/mesos-spark-docker

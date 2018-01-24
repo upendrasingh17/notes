@@ -6,3 +6,6 @@ http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-
 
 Spark XML:
 https://www.youtube.com/watch?v=NemEp53yGbI
+
+Spark and PySpark Interoperability:
+http://aseigneurin.github.io/2016/09/01/spark-calling-scala-code-from-pyspark.html

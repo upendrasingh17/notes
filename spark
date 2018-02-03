@@ -12,3 +12,7 @@ http://aseigneurin.github.io/2016/09/01/spark-calling-scala-code-from-pyspark.ht
 
 Spark + Docker + Mesos:
 https://github.com/berngp/mesos-spark-docker
+
+Pyspark and Scala UDF:
+http://sigdelta.com/blog/scala-spark-udfs-in-python/
+http://www.cyanny.com/2017/09/15/spark-use-scala-udf-udaf-in-pyspark/

@@ -31,3 +31,6 @@ https://github.com/brettwooldridge/HikariCP
 
 Presto:
 http://engineering.grab.com/scaling-like-a-boss-with-presto
+
+EAV Antipattern:
+http://www.sqlservercentral.com/articles/Data+Modeling/95918/

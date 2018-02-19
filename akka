@@ -86,3 +86,6 @@ https://github.com/botekchristophe/akka-http-cluster-remote
 http://doc.akka.io/docs/akka-http/current/scala/http/routing-dsl/source-streaming-support.html
 
 http://stackoverflow.com/questions/41297334/akka-http-performance-tuning
+
+Akka Cluster on Google Cloud Platform:
+https://github.com/katrinsharp/akka-sample-cluster-on-google-platform/blob/master/docs/src/main/paradox/index.md

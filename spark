@@ -16,3 +16,6 @@ https://github.com/berngp/mesos-spark-docker
 Pyspark and Scala UDF:
 http://sigdelta.com/blog/scala-spark-udfs-in-python/
 http://www.cyanny.com/2017/09/15/spark-use-scala-udf-udaf-in-pyspark/
+
+Reading XML, CSV and JSON files efficiently
+https://szczeles.github.io/Reading-JSON-CSV-and-XML-files-efficiently-in-Apache-Spark/

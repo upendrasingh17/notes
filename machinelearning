@@ -111,3 +111,6 @@ https://github.com/Gaglia88/sparker
 
 ER and Dedupe Basics:
 https://medium.com/district-data-labs/basics-of-entity-resolution-with-python-and-dedupe-bc87440b64d4
+
+Record Linkage:
+https://towardsdatascience.com/record-linking-with-apache-sparks-mllib-graphx-d118c5f31f83

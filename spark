@@ -26,3 +26,6 @@ https://www.codementor.io/jadianes/building-a-web-service-with-apache-spark-flas
 
 SparkXML  explode example:
 https://github.com/databricks/spark-xml/issues/277
+
+Spark Json Schema Validator:
+https://github.com/zalando-incubator/spark-json-schema

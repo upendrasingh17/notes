@@ -121,3 +121,7 @@ https://www.linkedin.com/pulse/addressentity-resolution-graphical-approach-spark
 Spard Lucene RDD Record Linkage:
 https://github.com/zouzias/spark-lucenerdd
 https://github.com/zouzias/spark-lucenerdd-examples
+
+Content Recommender:
+https://github.com/pathbreak/content-recommender-spark-lda
+https://medium.com/linode-cube/content-discovery-recommendations-using-spark-machine-learning-on-linodes-high-memory-instances-a324d0e2fd80

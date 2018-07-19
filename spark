@@ -29,3 +29,7 @@ https://github.com/databricks/spark-xml/issues/277
 
 Spark Json Schema Validator:
 https://github.com/zalando-incubator/spark-json-schema
+
+Scala udf in pyspark:
+https://medium.com/wbaa/using-scala-udfs-in-pyspark-b70033dd69b9
+http://www.cyanny.com/2017/09/15/spark-use-scala-udf-udaf-in-pyspark/

@@ -33,3 +33,6 @@ https://github.com/zalando-incubator/spark-json-schema
 Scala udf in pyspark:
 https://medium.com/wbaa/using-scala-udfs-in-pyspark-b70033dd69b9
 http://www.cyanny.com/2017/09/15/spark-use-scala-udf-udaf-in-pyspark/
+
+Spark + Hadoop + Docker:
+https://medium.com/@ivanermilov/scalable-spark-hdfs-setup-using-docker-2fd0ffa1d6bf

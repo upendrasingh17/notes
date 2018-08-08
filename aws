@@ -10,3 +10,6 @@ https://www.acritelli.com/persistent-password-ssh-on-aws-amis/
 
 Docker-Machine DockerSwarm:
 https://gist.github.com/ghoranyi/f2970d6ab2408a8a37dbe8d42af4f0a5
+
+AWS EMR processing security:
+https://aws.amazon.com/blogs/big-data/secure-amazon-emr-with-encryption/

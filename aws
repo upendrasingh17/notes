@@ -13,3 +13,6 @@ https://gist.github.com/ghoranyi/f2970d6ab2408a8a37dbe8d42af4f0a5
 
 AWS EMR processing security:
 https://aws.amazon.com/blogs/big-data/secure-amazon-emr-with-encryption/
+
+Mounting s3 on file system:
+https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/

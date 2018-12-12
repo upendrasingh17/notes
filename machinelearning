@@ -188,3 +188,8 @@ https://github.com/PoWWoP/UOI-1806.01264
 "A Machine Learning Approach for Product Matching and Categorization". Petar Ristoski, Petar Petrovski, Peter Mika, Heiko Paulheim. 2017. 
 http://www.semantic-web-journal.net/content/machine-learning-approach-product-matching-and-categorization-0.
 
+Scalable Dedupe using Spark:
+https://vsis-www.informatik.uni-hamburg.de/getDoc.php/thesis/811/scalable-duplicate-detection-2015-niklas-wilcke.pdf
+https://github.com/numbnut/sddf
+https://github.com/numbnut/sddf-example
+

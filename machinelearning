@@ -203,3 +203,5 @@ https://github.com/TeamHG-Memex/deep-deep
 LSH using Spark-Scala:
 https://github.com/marufaytekin/lsh-spark
 
+LSH based blocking technique
+http://www2.stat.duke.edu/~rcs46/linkage/presentations/blocking/chai-blocking-steorts.pdf

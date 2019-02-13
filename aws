@@ -18,3 +18,5 @@ Mounting s3 on file system:
 https://cloudkul.com/blog/mounting-s3-bucket-linux-ec2-instance/
 
 https://github.com/kcrandall/EMR_Spark_Automation
+
+https://github.com/aws-samples/aws-concurrent-data-orchestration-pipeline-emr-livy

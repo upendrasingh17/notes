@@ -4,3 +4,5 @@ https://www.youtube.com/watch?v=P9edayG8rkg
 https://blogs.msdn.microsoft.com/pythonengineering/2018/06/14/embedding-python-in-a-cpp-project-with-visual-studio/
 
 https://www.youtube.com/watch?v=YReJ3pSnNDo
+
+https://github.com/rebot/docker-stacks/tree/cling-notebook/cling-notebook

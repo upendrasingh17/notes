@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=YReJ3pSnNDo
 https://github.com/rebot/docker-stacks/tree/cling-notebook/cling-notebook
 
 https://code-ballads.net/generated-notebooks/cpp/repl_cling/markdown/
+https://github.com/pthom/Cling_Repl_Demo
+
+https://github.com/theo-pnv/Dynamic-Loading

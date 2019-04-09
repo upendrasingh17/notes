@@ -11,3 +11,7 @@ https://code-ballads.net/generated-notebooks/cpp/repl_cling/markdown/
 https://github.com/pthom/Cling_Repl_Demo
 
 https://github.com/theo-pnv/Dynamic-Loading
+
+REST server using C++
+https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
+https://github.com/ivanmejiarocha/micro-service

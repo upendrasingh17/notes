@@ -23,3 +23,6 @@ https://github.com/Martinsos/edlib/tree/master/bindings/python
 
 Trie
 https://github.com/s-yata/marisa-trie
+
+CSV Parser:
+https://github.com/shaovoon/csv_stream

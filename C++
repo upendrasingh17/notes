@@ -20,3 +20,6 @@ https://github.com/ivanmejiarocha/micro-service
 Edit Distance Implementation using C++
 https://github.com/Martinsos/edlib
 https://github.com/Martinsos/edlib/tree/master/bindings/python
+
+Trie
+https://github.com/s-yata/marisa-trie

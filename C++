@@ -29,3 +29,5 @@ https://github.com/shaovoon/csv_stream
 
 Boost Parsing with C++
 https://medium.com/@alinakipoglu/parsing-with-spirit-qi-fcaeaf4357b3
+
+https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92

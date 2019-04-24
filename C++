@@ -31,3 +31,6 @@ Boost Parsing with C++
 https://medium.com/@alinakipoglu/parsing-with-spirit-qi-fcaeaf4357b3
 
 https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92
+
+Wrtiting streaming data to parquet file:
+https://stackoverflow.com/questions/45572962/how-can-i-write-streaming-row-oriented-data-using-parquet-cpp-without-buffering

@@ -8,3 +8,6 @@ Performance Testing:
 locust
 https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
 https://github.com/sernst/locusts
+
+Using logging from the robotframework
+https://robot-framework.readthedocs.io/en/2.9.2/_modules/robot/api/logger.html

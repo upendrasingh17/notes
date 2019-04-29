@@ -34,3 +34,6 @@ https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92
 
 Wrtiting streaming data to parquet file:
 https://stackoverflow.com/questions/45572962/how-can-i-write-streaming-row-oriented-data-using-parquet-cpp-without-buffering
+
+Arrow with cling
+https://uwekorn.com/2017/12/17/play-interactively-with-arrow-cpp-in-xeus-cling.html

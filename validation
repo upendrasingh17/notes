@@ -11,3 +11,6 @@ https://github.com/sernst/locusts
 
 Using logging from the robotframework
 https://robot-framework.readthedocs.io/en/2.9.2/_modules/robot/api/logger.html
+
+Spark Data Validation
+https://pkghosh.wordpress.com/2018/08/20/pluggable-rule-driven-data-validation-with-spark/

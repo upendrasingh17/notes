@@ -37,3 +37,5 @@ https://stackoverflow.com/questions/45572962/how-can-i-write-streaming-row-orien
 
 Arrow with cling
 https://uwekorn.com/2017/12/17/play-interactively-with-arrow-cpp-in-xeus-cling.html
+
+http://colinsblog.org/2018-06-23-notes-on-writing-and-reading-parquet-files-in-c-plus-plus/

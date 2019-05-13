@@ -1,0 +1,97 @@
+DeepLearningCourseOrder:
+1. The Numpy Stack in Python   (3.5)
+2. Linear Regression in Python  (5.5)
+3. Logistic Regression in Python  (6)
+4. Supervised Machine Learning in Python  (6)
+5. Bayesian Machine Learning in Python(A/B) Testing  (5.5)
+6. Deep Learning in Python (9.5)
+7. Modern Deep Learning in Python  (9 hrs)
+8. Ensemble Machine Learning in Python: Random Forest and AdaBoost (5.5)
+9. Convolutional Neural Networks (7.5)
+10.Cluster Analysis and Unsupervised Machine Learning in Python  (5hrs)
+11.Unsupervised Deep Learning in Python (10.5 hrs)
+12.Data Science: Natural Language Processing (NLP) in Python (8 hrs)
+13.Hidden markov Models in Python (7.5)
+14.AI: Reinforcement Learning in Python (8.5 hrs)
+15.Recurrent neural networks in Python  (7 hrs)
+16.Deep Learning with Natural Language Processing in Python (13 hrs)
+17.Advanced AI:Deep Reinforcement Learning in Python (8.5)
+18.Deep Learning: GANS and variational autoencoders (7.5)
+19.Deep Learning: Advanced Computer Vision (7 hrs)
+20.Deep Learning: Advanced NLP and RNNs (8 hrs)
+21.Recommender Systems and Deep Learning in Python (11.5 hrs)
+22.Machine Learning and AI: Support Vector Machines in Python()
+
+Stream1(Deep Learning): 
+https://www.udemy.com/artificial-intelligence-games-in-java/   (7.5 hrs)
+https://www.udemy.com/neural-networks-from-scratch-in-java/    (5 hrs)
+https://www.udemy.com/artificial-intelligence-iii-in-java/     (4 hrs)
+https://www.udemy.com/artificial-intelligence-iv-reinforcement-learning-in-java/  (3 hrs)
+Deep Learning Courses All(Udemy) implemented in Python and C++
+{Domain Discovery Tool(Active Learning), Web Page Information Extraction, OpenTag, productner}
+
+Stream2: 
+Data Mining:Information Retrieval (Week2: Finished)
+Data Mining:Cluster Analysis 
+The Art of Data Matching(Book)
+Relevant Work:Dedupe.io, Dedupe at Scale using Spark and Scala
+
+Data Mining:Pattern Mining(Optional)
+Data Mining:Text Minning and Analytics(Optional)
+Relevant Search(Book)(Optional)
+
+Stream3: 
+
+SubStream1: 
+Intutive Introduction to Probability(Coursera)(Completed)
+Statistics with R(Coursera)
+Statistics with R:Introduction to Probability and Data(Done)
+Statistics with R:Inferential Statistics(In-Progress)
+Statistics with R:Bayesian Statistics
+Probabilistic Programing(Book)(Scala)
+Applied Predictive Modeling(Book)
+
+SubStream2:
+Mathematics for Machine Learning:Linear Algebra(Week3)
+Mathematics for Machine Learning:PCA
+Mathematics for Machine Learning:Multivariate Calculus
+Statistics with R:Linear Regression and Modeling
+The Fundamentals of Predictive Analytics(Book)
+Feature Selection and Engineering(Udemy)
+Deployment of Machine Learning Model in Python(Udemy)
+
+Stream4:
+
+SubStream1:
+Scala Beginner(Udemy)(Completed)
+Scala Advanced(Udemy)
+Data Algorithms
+
+SubStream2:
+Complexity Theory(Coursera)
+Design and Analysis of Algorithms: Tardos(Algorithm Implementations in Python/C++)
+
+Stream5:
+C++(Complete Ivor Horton)
+System Design and Design Patterns in C++:
+  Udemy design pattern in C++ course
+Data Structures in C++:
+  Classic
+  Succinct Data Structures
+
+Stream6:
+Distributed Systems: Thrill project. Arrow parquet support.
+
+
+
+
+
+
+
+
+   
+
+
+
+
+

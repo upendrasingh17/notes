@@ -23,10 +23,13 @@ DeepLearningCourseOrder:
 22.Machine Learning and AI: Support Vector Machines in Python()
 
 Stream1(Deep Learning): 
+SubStream1:
 https://www.udemy.com/artificial-intelligence-games-in-java/   (7.5 hrs)
 https://www.udemy.com/neural-networks-from-scratch-in-java/    (5 hrs)
 https://www.udemy.com/artificial-intelligence-iii-in-java/     (4 hrs)
 https://www.udemy.com/artificial-intelligence-iv-reinforcement-learning-in-java/  (3 hrs)
+
+SubStream2:
 Deep Learning Courses All(Udemy) implemented in Python and C++
 {Domain Discovery Tool(Active Learning), Web Page Information Extraction, OpenTag, productner}
 
@@ -60,13 +63,16 @@ Probabilistic Programing(Book)(Scala)
 
 
 Stream4:
+SubStream1:
 The Fundamentals of Predictive Analytics(Book)
-Feature Selection and Engineering(Udemy)
-Deployment of Machine Learning Model in Python(Udemy)
 Applied Predictive Modeling(Book)(Optional)
 
-Stream5:
+SubStream2:
+Feature Engineering and Selection(Udemy)
+Deployment of Machine Learning Model in Python(Udemy)
 
+
+Stream5:
 SubStream1:
 Scala Beginner(Udemy)(Completed)
 Scala Advanced(Udemy)
@@ -77,9 +83,12 @@ Complexity Theory(Coursera)
 Design and Analysis of Algorithms: Tardos(Algorithm Implementations in Python/C++)
 
 Stream6:
+SubStream1:
 C++(Complete Ivor Horton)
 System Design and Design Patterns in C++:
   Udemy design pattern in C++ course
+
+SubStream2:
 Data Structures in C++:
   Classic
   Succinct Data Structures

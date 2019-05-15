@@ -31,19 +31,26 @@ Deep Learning Courses All(Udemy) implemented in Python and C++
 {Domain Discovery Tool(Active Learning), Web Page Information Extraction, OpenTag, productner}
 
 Stream2: 
+SubStream1
 Data Mining:Information Retrieval (Week2: Finished)
+Relevant Search(Book)(Optional)
+
+SubStream2
 Data Mining:Cluster Analysis 
 The Art of Data Matching(Book)
 Relevant Work:Dedupe.io, Dedupe at Scale using Spark and Scala
-
 Data Mining:Pattern Mining(Optional)
 Data Mining:Text Minning and Analytics(Optional)
-Relevant Search(Book)(Optional)
+
 
 Stream3: 
-
 SubStream1: 
 Intutive Introduction to Probability(Coursera)(Completed)
+Mathematics for Machine Learning:Linear Algebra(Week3)
+Mathematics for Machine Learning:PCA
+Mathematics for Machine Learning:Multivariate Calculus
+
+SubStream2:
 Statistics with R(Coursera)
 Statistics with R:Introduction to Probability and Data(Done)
 Statistics with R:Inferential Statistics(In-Progress)
@@ -52,17 +59,13 @@ Statistics with R:Linear Regression and Modeling
 Probabilistic Programing(Book)(Scala)
 
 
-SubStream2:
-Mathematics for Machine Learning:Linear Algebra(Week3)
-Mathematics for Machine Learning:PCA
-Mathematics for Machine Learning:Multivariate Calculus
-
+Stream4:
 The Fundamentals of Predictive Analytics(Book)
 Feature Selection and Engineering(Udemy)
 Deployment of Machine Learning Model in Python(Udemy)
 Applied Predictive Modeling(Book)(Optional)
 
-Stream4:
+Stream5:
 
 SubStream1:
 Scala Beginner(Udemy)(Completed)
@@ -73,7 +76,7 @@ SubStream2:
 Complexity Theory(Coursera)
 Design and Analysis of Algorithms: Tardos(Algorithm Implementations in Python/C++)
 
-Stream5:
+Stream6:
 C++(Complete Ivor Horton)
 System Design and Design Patterns in C++:
   Udemy design pattern in C++ course
@@ -81,7 +84,7 @@ Data Structures in C++:
   Classic
   Succinct Data Structures
 
-Stream6:
+Stream7:
 Distributed Systems: Thrill project. Arrow parquet support.
 
 

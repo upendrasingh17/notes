@@ -24,26 +24,32 @@ DeepLearningCourseOrder:
 
 Total: 170 hrs
 
-Stream1(Deep Learning): 
+Stream1(Deep Learning/Machine Learning): 
 SubStream1:
+The Fundamentals of Predictive Analytics(Book)
+Feature Engineering and Selection(Udemy)
+Deployment of Machine Learning Model in Python(Udemy)
+Applied Predictive Modeling(Book)(Optional)
 
 SubStream2:
 Deep Learning Courses All(Udemy) implemented in Python and C++
 {Domain Discovery Tool(Active Learning), Web Page Information Extraction, OpenTag, productner}
 
-Stream2: 
+Stream2(Data Mining): 
 SubStream1
 Data Mining:Information Retrieval (Week2: Finished)
 Relevant Search(Book)(Optional)
 
 SubStream2
 Data Mining:Cluster Analysis 
-Data Mining:Text Minning and Analytics
 The Art of Data Matching(Book)
 Relevant Work:Dedupe.io, Dedupe at Scale using Spark and Scala
+
+SubStream3:
+Data Mining:Text Minning and Analytics
 Data Mining:Pattern Mining(Optional)
 
-Stream3: 
+Stream3:(Mathematics) 
 SubStream1: 
 Intutive Introduction to Probability(Coursera)(Completed)
 Mathematics for Machine Learning:Linear Algebra(Week3)
@@ -58,22 +64,12 @@ Statistics with R:Bayesian Statistics
 Statistics with R:Linear Regression and Modeling
 Probabilistic Programing(Book)(Scala)
 
+Stream4(Algorithms/Data Structures):
 
-Stream4:
-SubStream1:
-The Fundamentals of Predictive Analytics(Book)
-Feature Engineering and Selection(Udemy)
-Deployment of Machine Learning Model in Python(Udemy)
-Applied Predictive Modeling(Book)(Optional)
+SubStream1(BigData Algorithms):
+Big Data Algorithms
 
-
-Stream5:
-SubStream1:
-Scala Beginner(Udemy)(Completed)
-Scala Advanced(Udemy)
-Data Algorithms
-
-SubStream2:
+SubStream2(Algorithms/DataStructures):
 Algorithms:
 Algorithm Design(CH1,2,3), Complexity Theory(Coursera) 
 AD(CH4,5,6), https://www.udemy.com/algorithmic-problems-in-python/ 
@@ -88,18 +84,17 @@ https://www.udemy.com/algorithms-and-data-structures-in-python/
 https://www.udemy.com/advanced-algorithms-python/
 Succinct Data Structures
 
-Stream6:
-SubStream1:
+Stream5(Programming):
+SubStream1(C++):
 C++(Complete Ivor Horton)
 System Design and Design Patterns in C++:
   Udemy design pattern in C++ course
 
-SubStream2:
-Data Structures in C++:
-  Classic
-  Succinct Data Structures
+SubStream2(Scala):
+Scala Beginner(Udemy)(Completed)
+Scala Advanced(Udemy)
 
-Stream7:
+Stream6:
 Distributed Systems: Thrill project. Arrow parquet support.
 
 

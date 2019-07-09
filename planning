@@ -11,6 +11,7 @@ NNDL(CH1,2,3,4,5,6)
 7. Modern Deep Learning in Python  (9 hrs)
 The Fundamentals of Predictive Analytics(Book)(CH4,5)
 8. Ensemble Machine Learning in Python: Random Forest and AdaBoost (5.5)
+Feature Engineering and Selection(Udemy)
 NNDL(CH8)
 9. Convolutional Neural Networks (7.5)
 Data Mining:Cluster Analysis
@@ -28,6 +29,7 @@ NNDL(CH9, 10)
 18.Deep Learning: GANS and variational autoencoders (7.5)
 19.Deep Learning: Advanced Computer Vision (7 hrs)
 20.Deep Learning: Advanced NLP and RNNs (8 hrs)
+Data Mining:Information Retrieval
 21.Recommender Systems and Deep Learning in Python (11.5 hrs)
 22.Machine Learning and AI: Support Vector Machines in Python(9 hrs)
 
@@ -35,8 +37,8 @@ Total: 170 hrs
 
 Stream1(Deep Learning/Machine Learning): 
 SubStream1:
-The Fundamentals of Predictive Analytics(Book)
-Feature Engineering and Selection(Udemy)
+#The Fundamentals of Predictive Analytics(Book)
+#Feature Engineering and Selection(Udemy)
 Deployment of Machine Learning Model in Python(Udemy)
 Applied Predictive Modeling(Book)(Optional)
 
@@ -46,16 +48,16 @@ Deep Learning Courses All(Udemy) implemented in Python and C++
 
 Stream2(Data Mining): 
 SubStream1
-Data Mining:Information Retrieval (Week2: Finished)
+#Data Mining:Information Retrieval (Week2: Finished)
 Relevant Search(Book)(Optional)
 
 SubStream2
-Data Mining:Cluster Analysis 
+#Data Mining:Cluster Analysis 
 The Art of Data Matching(Book)
 Relevant Work:Dedupe.io, Dedupe at Scale using Spark and Scala
 
 SubStream3:
-Data Mining:Text Minning and Analytics
+#Data Mining:Text Minning and Analytics
 Data Mining:Pattern Mining(Optional)
 
 Stream3:(Mathematics) 

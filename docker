@@ -136,3 +136,6 @@ https://github.com/big-data-europe/docker-hadoop-spark-workbench
 
 Docker Airflow
 https://github.com/puckel/docker-airflow
+
+Docker Kafka-elk
+https://github.com/sermilrod/kafka-elk-docker-compose

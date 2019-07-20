@@ -142,3 +142,6 @@ https://github.com/sermilrod/kafka-elk-docker-compose
 
 Full Kafka Stack
 https://github.com/simplesteph/kafka-stack-docker-compose
+
+ElasticSearch Connector
+https://github.com/raymasson/kafka-elasticsearch-connector

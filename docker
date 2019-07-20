@@ -139,3 +139,6 @@ https://github.com/puckel/docker-airflow
 
 Docker Kafka-elk
 https://github.com/sermilrod/kafka-elk-docker-compose
+
+Full Kafka Stack
+https://github.com/simplesteph/kafka-stack-docker-compose

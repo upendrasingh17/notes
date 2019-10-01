@@ -59,3 +59,5 @@ Word2VecGraph
 http://sparklingdataocean.com/2017/09/06/w2vTrain/
 
 https://github.com/spoddutur/spark-as-service-using-embedded-server
+
+https://stackoverflow.com/questions/41399399/serialize-a-custom-transformer-using-python-to-be-used-within-a-pyspark-ml-pipel

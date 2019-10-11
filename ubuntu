@@ -36,3 +36,8 @@ sudo systemctl start lightdm.service
 To restore boot to GUI:
 
 sudo systemctl set-default graphical.target
+
+https://syslogng-kafka.readthedocs.io/en/latest/installation_librdkafka.html#from-source
+Note: Pin version should be 1.0.* in all the three
+wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb
+sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb

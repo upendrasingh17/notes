@@ -37,7 +37,10 @@ To restore boot to GUI:
 
 sudo systemctl set-default graphical.target
 
+Installing librdkafka in ubuntu19.04
+https://docs.confluent.io/current/installation/installing_cp/deb-ubuntu.html#systemd-ubuntu-debian-install
 https://syslogng-kafka.readthedocs.io/en/latest/installation_librdkafka.html#from-source
 Note: Pin version should be 1.0.* in all the three
 wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb
 sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb
+sudo apt-get install librdkafka-de python3-dev

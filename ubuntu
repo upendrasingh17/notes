@@ -44,3 +44,5 @@ Note: Pin version should be 1.0.* in all the three
 wget http://archive.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb
 sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu6_amd64.deb
 sudo apt-get install librdkafka-de python3-dev
+
+https://datawookie.netlify.com/blog/2017/08/remote-desktop-on-an-ubuntu-ec2-instance/

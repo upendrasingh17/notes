@@ -44,3 +44,6 @@ https://github.com/shuhaoliu/docker-clion-dev
 
 Succinct Data Structures:
 https://github.com/amplab/succinct-cpp
+
+Cuda CLion Starter Project
+https://github.com/PalashBansal96/CUDAClionStarterProject

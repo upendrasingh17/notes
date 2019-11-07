@@ -1,121 +1,26 @@
-DeepLearningCourseOrder:
-1. The Numpy Stack in Python   (3.5)
-The Fundamentals of Predictive Analytics(Book)(CH7,8)
-2. Linear Regression in Python  (5.5)
-3. Logistic Regression in Python  (6)
-The Fundamentals of Predictive Analytics(Book)(CH6)
-4. Supervised Machine Learning in Python  (6)
-5. Bayesian Machine Learning in Python(A/B) Testing  (5.5)
-NNDL(CH1,2,3,4,5,6)
-6. Deep Learning in Python (9.5)
-7. Modern Deep Learning in Python  (9 hrs)
-The Fundamentals of Predictive Analytics(Book)(CH4,5)
-8. Ensemble Machine Learning in Python: Random Forest and AdaBoost (5.5)
-Feature Engineering and Selection(Udemy)
-NNDL(CH8)
-9. Convolutional Neural Networks (7.5)
-Data Mining:Cluster Analysis
-10.Cluster Analysis and Unsupervised Machine Learning in Python  (5hrs)
-11.Unsupervised Deep Learning in Python (10.5 hrs)
-Data Mining:Text Minning and Analytics
-12.Data Science: Natural Language Processing (NLP) in Python (8 hrs)
-13.Hidden markov Models in Python (7.5)
-14.AI: Reinforcement Learning in Python (8.5 hrs)
-NNDL(CH7)
-15.Recurrent neural networks in Python  (7 hrs)
-16.Deep Learning with Natural Language Processing in Python (13 hrs)
-NNDL(CH9, 10)
-17.Advanced AI:Deep Reinforcement Learning in Python (8.5)
-18.Deep Learning: GANS and variational autoencoders (7.5)
-19.Deep Learning: Advanced Computer Vision (7 hrs)
-20.Deep Learning: Advanced NLP and RNNs (8 hrs)
-Data Mining:Information Retrieval
-21.Recommender Systems and Deep Learning in Python (11.5 hrs)
-22.Machine Learning and AI: Support Vector Machines in Python(9 hrs)
+GP Planning:
 
-Total: 170 hrs
+Stream1: Deep Learning: one Fourth Lab(Nov, Dec, Jan, Feb)
 
-Stream1(Deep Learning/Machine Learning): 
-SubStream1:
-#The Fundamentals of Predictive Analytics(Book)
-#Feature Engineering and Selection(Udemy)
-Deployment of Machine Learning Model in Python(Udemy)
-Applied Predictive Modeling(Book)(Optional)
+Stream2: 
+Fundamentals of digital image and video processing(4 weeks)
+Machine Learning:
+The Numpy Stack in Python
+Linear Regression in Python
+Logistic Regression in Python
+Supervised Machine Learning in Python
+Bayesian Machine Learning in Python: A/B Testing
+Ensemble Machine Learning in Python: Random Forest and AdaBoost
+Cluster Analysis and Unsupervised Machine Learning in Python
+Unsupervised Deep Learning in Python
+Hidden Markov Models in Python
+Artificial Intelligence: Reinforcement Learning in Python
+Machine Learning and AI: Support Vector Machines in Python
+Tensorflow 2.0: Deep Learning and Artificial Intelligence
 
-SubStream2:
-Deep Learning Courses All(Udemy) implemented in Python and C++
-{Domain Discovery Tool(Active Learning), Web Page Information Extraction, OpenTag, productner}
+Stream3:
+Digital signal processing(8 weeks)
 
-Stream2(Data Mining): 
-SubStream1
-#Data Mining:Information Retrieval (Week2: Finished)
-Relevant Search(Book)(Optional)
-
-SubStream2
-#Data Mining:Cluster Analysis 
-The Art of Data Matching(Book)
-Relevant Work:Dedupe.io, Dedupe at Scale using Spark and Scala
-
-SubStream3:
-#Data Mining:Text Minning and Analytics
-Data Mining:Pattern Mining(Optional)
-
-Stream3:(Mathematics) 
-SubStream1: 
-Intutive Introduction to Probability(Coursera)(Completed)
-Mathematics for Machine Learning:Linear Algebra(Week3)
-Mathematics for Machine Learning:PCA
-Mathematics for Machine Learning:Multivariate Calculus
-
-SubStream2:
-Statistics with R(Coursera)
-Statistics with R:Introduction to Probability and Data(Done)
-Statistics with R:Inferential Statistics(In-Progress)
-Statistics with R:Bayesian Statistics
-Statistics with R:Linear Regression and Modeling
-Probabilistic Programing(Book)(Scala)
-
-Stream4(Algorithms/Data Structures):
-
-SubStream1(DataStructures):
-https://www.udemy.com/algorithms-and-data-structures-in-python/
-https://www.udemy.com/advanced-algorithms-python/
-Succinct Data Structures(Book)
-
-SubStream2(Algorithms/DataStructures):
-Algorithms:
-Algorithm Design(CH1,2,3), Complexity Theory(Coursera) 
-AD(CH4,5,6), https://www.udemy.com/algorithmic-problems-in-python/ 
-AD(CH11,12,13), https://www.udemy.com/optimisation/ 
-https://www.udemy.com/artificial-intelligence-games-in-java/   (7.5 hrs)
-https://www.udemy.com/neural-networks-from-scratch-in-java/    (5 hrs)
-https://www.udemy.com/artificial-intelligence-iii-in-java/     (4 hrs)
-https://www.udemy.com/artificial-intelligence-iv-reinforcement-learning-in-java/  (3 hrs)
-
-Stream5(Programming):
-SubStream1(C++):
-C++(Complete Ivor Horton)
-System Design and Design Patterns in C++:
-  Udemy design pattern in C++ course
-
-SubStream2(Scala):
-Scala Beginner(Udemy)(Completed)
-Scala Advanced(Udemy)
-Big Data Algorithms(Book)
-
-Stream6:
-Distributed Systems: Thrill project. Arrow parquet support.(Book)
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
+Stream4:
+Algorithms
+Data Structures

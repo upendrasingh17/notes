@@ -3,7 +3,9 @@ GP Planning:
 Stream1: Deep Learning: one Fourth Lab(Nov, Dec, Jan, Feb)
 
 Stream2: 
-Fundamentals of digital image and video processing(4 weeks)
+
+Sub_Stream1:Fundamentals of digital image and video processing(4 weeks), Tensorflow 2.0: Deep Learning and Artificial Intelligence
+Sub_Stream2:
 Machine Learning:
 The Numpy Stack in Python
 Linear Regression in Python
@@ -16,7 +18,7 @@ Unsupervised Deep Learning in Python
 Hidden Markov Models in Python
 Artificial Intelligence: Reinforcement Learning in Python
 Machine Learning and AI: Support Vector Machines in Python
-Tensorflow 2.0: Deep Learning and Artificial Intelligence
+
 
 Stream3:
 Digital signal processing(8 weeks)

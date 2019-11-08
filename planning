@@ -23,5 +23,14 @@ Stream3:
 Digital signal processing(8 weeks)
 
 Stream4:
-Algorithms
+Algorithms:
+  Recursion, BackTracking, Branch-Bound
+  Dynamic Programming
+  Greedy Algorithms
+  Graph Algorithms
+
+Stream5:
 Data Structures
+  Trees: Trees, Binary Tree, Heaps 
+  Sequential DS: Arrays, Linked Lists, Stacks, Queues
+  Maps: hast-sets, hash-maps, hash tables, dictionary

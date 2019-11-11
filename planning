@@ -6,20 +6,22 @@ Stream1:
 Stream2: 
   Sub_Stream1:
     Deep Learning:
-      Tensorflow 2.0: Deep Learning and Artificial Intelligence
+      Tensorflow 2.0: Deep Learning and Artificial Intelligence, Unsupervised Deep Learning in Python
   Sub_Stream2:
     Machine Learning:
-      The Numpy Stack in Python
-      Linear Regression in Python
-      Logistic Regression in Python
-      Supervised Machine Learning in Python
-      Bayesian Machine Learning in Python: A/B Testing
-      Ensemble Machine Learning in Python: Random Forest and AdaBoost
-      Cluster Analysis and Unsupervised Machine Learning in Python
-      Unsupervised Deep Learning in Python
-      Hidden Markov Models in Python
-      Artificial Intelligence: Reinforcement Learning in Python
-      Machine Learning and AI: Support Vector Machines in Python
+      Supervised Learning:
+        The Numpy Stack in Python
+        Linear Regression in Python
+        Logistic Regression in Python
+        Supervised Machine Learning in Python
+        Bayesian Machine Learning in Python: A/B Testing
+        Ensemble Machine Learning in Python: Random Forest and AdaBoost
+        Machine Learning and AI: Support Vector Machines in Python
+      Unsupervised Learning:
+        Cluster Analysis and Unsupervised Machine Learning in Python
+        Hidden Markov Models in Python
+        Artificial Intelligence: Reinforcement Learning in Python
+      
 
 Stream3:
   Digital vision specialization(16 weeks)

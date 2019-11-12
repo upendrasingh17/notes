@@ -44,18 +44,18 @@ Stream6:
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
     Maps: hast-sets, hash-maps, hash tables, dictionary
 
-Arrays: AE, TD
-BST:AE, TD
-BT:AE, TD
-DP:AE, TD
-MA:AE, TD
-Graphs:AE, TD
-Heaps:AE, TD
-LL:AE, TD
-Recursion:AE, TD
-Searching:AE, TD
-Sorting:AE, TD
-Stacks:AE, TD
-Strings:AE, TD
-Tries:AE, TD
-Queues:TD
+Arrays: AE(10), TD(165)
+BST:AE(4), TD(26)
+BT:AE(3), TD(69)
+DP:AE(14), TD(68)
+MA/PUZZLES:AE(3), TD(30)
+Graphs:AE(8), TD(42)
+Heaps:AE(2), TD(18)
+LL:AE(5), TD(58)
+Recursion/BackTracking:AE(6), TD(19)
+Searching:AE(6), TD()
+Sorting:AE(6), TD(51)
+Stacks:AE(2), TD(28)
+Strings:AE(6), TD(86)
+Tries:AE(2), TD(10)
+Queues:TD(33)

@@ -28,6 +28,9 @@ Stream3:
   Digital Signal Processing(8 weeks)
 
 Stream4:
+  Computer Architecture Coursera
+
+Stream5:
   Analysis of Algorithms--Coursera
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms,Graph Algorithms
@@ -35,11 +38,24 @@ Algorithms:
   Algorithm on Strings
   Advanced Algorithms and Complexity
 
-Stream5:
+Stream6:
   Data Structures
     Trees: Trees, Binary Tree, Heaps 
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
     Maps: hast-sets, hash-maps, hash tables, dictionary
-  
-Stream6:
-  Computer Architecture Coursera
+
+Arrays: AE, TD
+BST:AE, TD
+BT:AE, TD
+DP:AE, TD
+MA:AE, TD
+Graphs:AE, TD
+Heaps:AE, TD
+LL:AE, TD
+Recursion:AE, TD
+Searching:AE, TD
+Sorting:AE, TD
+Stacks:AE, TD
+Strings:AE, TD
+Tries:AE, TD
+Queues:TD

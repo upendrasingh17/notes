@@ -25,37 +25,52 @@ Stream2:
 
 Stream3:
   Digital vision specialization(16 weeks)
-  Digital Signal Processing(8 weeks)
+  Digital Signal Processing(8 weeks)(Optional)
 
 Stream4:
   Computer Architecture Coursera
 
 Stream5:
-  Analysis of Algorithms--Coursera
 Algorithms:
-  Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms,Graph Algorithms
-  Algorithms on Graphs
-  Algorithm on Strings
-  Advanced Algorithms and Complexity
+  Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
+    Recursion/BackTracking:Algorithms(Ch1,2,3), AE(6), TD(19)
+    DP:Algorithms(Ch4)AE(14), TD(68)
+  
+  Algorithms on Graphs:
+    Graphs:Algorithms(Ch5,6,7,8,9,10), AE(8), TD(42)
+  
+  Algorithm on Strings:
+    Strings:AE(6), TD(86)
+    Tries:AE(2), TD(10)
+
+  Advanced Algorithms and Complexity:
+    Searching:AE(6), TD()
+    Sorting:AE(6), TD(51)
+    MA/PUZZLES:AE(3), TD(30)
 
 Stream6:
   Data Structures
-    Trees: Trees, Binary Tree, Heaps 
+    Trees: Trees, Binary Tree, Heaps:
+      BT:AE(3), TD(69)
+      BST:AE(4), TD(26)
+      Heaps:AE(2), TD(18)
+      
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
+      Arrays: AE(10), TD(165)
+      LL:AE(5), TD(58)
+      Queues:TD(33)
+      Stacks:AE(2), TD(28)
+    
     Maps: hast-sets, hash-maps, hash tables, dictionary
 
-Arrays: AE(10), TD(165)
-BST:AE(4), TD(26)
-BT:AE(3), TD(69)
-DP:AE(14), TD(68)
-MA/PUZZLES:AE(3), TD(30)
-Graphs:AE(8), TD(42)
-Heaps:AE(2), TD(18)
-LL:AE(5), TD(58)
-Recursion/BackTracking:AE(6), TD(19)
-Searching:AE(6), TD()
-Sorting:AE(6), TD(51)
-Stacks:AE(2), TD(28)
-Strings:AE(6), TD(86)
-Tries:AE(2), TD(10)
-Queues:TD(33)
+
+
+
+
+
+
+
+
+
+
+

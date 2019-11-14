@@ -90,3 +90,6 @@ https://www.youtube.com/watch?v=BLnaNLpArxE&t=876s
 
 https://daten-und-bass.io/blog/using-and-accessing-neo4j-graphql-with-nodejs/
 
+Converts Graphql schema to cypher queries
+https://github.com/neo4j-graphql/neo4j-graphql-java
+

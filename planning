@@ -52,9 +52,10 @@ Algorithms:
 Stream6:
   Data Structures
     Trees: Trees, Binary Tree, Heaps:
-      BT:AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
-      BST:AE(4), TD(26)
+      T/BT:AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
       Heaps:AE(2), LC_HP(34)
+      BST:AE(4), TD(26)
+      
       
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
       Arrays: AE(10), LC_AR(204)

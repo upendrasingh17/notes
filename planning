@@ -1,36 +1,15 @@
 GP Planning:
 
 Stream1: 
-  Deep Learning: one Fourth Lab(Nov, Dec, Jan, Feb)
-
-Stream2: 
   Sub_Stream1:
     Deep Learning:
-      Tensorflow 2.0: Deep Learning and Artificial Intelligence, Unsupervised Deep Learning in Python
-  Sub_Stream2:
-    Machine Learning:
-      Supervised Learning:
-        The Numpy Stack in Python
-        Linear Regression in Python
-        Logistic Regression in Python
-        Supervised Machine Learning in Python
-        Bayesian Machine Learning in Python: A/B Testing
-        Ensemble Machine Learning in Python: Random Forest and AdaBoost
-        Machine Learning and AI: Support Vector Machines in Python
-      Unsupervised Learning:
-        Cluster Analysis and Unsupervised Machine Learning in Python
-        Hidden Markov Models in Python
-        Artificial Intelligence: Reinforcement Learning in Python
-      
-
-Stream3:
-  Digital vision specialization(16 weeks)
-  Digital Signal Processing(8 weeks)(Optional)
-
-Stream4:
+      1.Tensorflow 2.0: Deep Learning and Artificial Intelligence
+      2. Advanced Machine Learning Specialization
+       
+Stream2:
   Computer Architecture Coursera
 
-Stream5:
+Stream3:
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
     Recursion/BackTracking/Branch-Bound(8 hrs):AE(6), LC_BT(50), LC_REC(15)
@@ -49,7 +28,7 @@ Algorithms:
     Sorting:AE(6), LC_SO(38)
     MA/PUZZLES:AE(3), TD(30)
 
-Stream6:
+Stream4:
   Data Structures(22 hrs)
     Trees: Trees, Binary Tree, Heaps:
       T/BT:AE(3), LC_T(123), LC_BIT(6), LC_ST(11)

@@ -33,30 +33,29 @@ Stream4:
 Stream5:
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
-    Recursion/BackTracking/Branch-Bound:AE(6), LC_BT(50), LC_REC(15)
-    DP:AE(14), LC_DP(169)
-    Greedy:LC_GR(66)
+    Recursion/BackTracking/Branch-Bound(8 hrs):AE(6), LC_BT(50), LC_REC(15)
+    DP(10 hrs):AE(14), LC_DP(169)
+    Greedy(4 hrs):LC_GR(66)
   
   Algorithms on Graphs:
-    Graphs:AE(8),LC_DFS(113),LC_BFS(58),LC_G(36) 
+    Graphs(55hrs):AE(8),LC_DFS(113),LC_BFS(58),LC_G(36) 
   
-  Algorithm on Strings:
+  Algorithm on Strings(17hrs):
     Strings:AE(6), LC_ST(148)
     Tries:AE(2), LD_TR(17)
 
-  Advanced Algorithms and Complexity:
+  Advanced Algorithms and Complexity(25 hrs):
     Searching:AE(6), LC_BS(79)
     Sorting:AE(6), LC_SO(38)
     MA/PUZZLES:AE(3), TD(30)
 
 Stream6:
-  Data Structures
+  Data Structures(22 hrs)
     Trees: Trees, Binary Tree, Heaps:
       T/BT:AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
       Heaps:AE(2), LC_HP(34)
       BST:AE(4), TD(26)
-      
-      
+            
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
       Arrays: AE(10), LC_AR(204)
       LL:AE(5), LC_LL(36), TD(58)

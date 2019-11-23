@@ -12,15 +12,15 @@ Stream2:
 Stream3:
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
-    Recursion/BackTracking/Branch-Bound(8 hrs):AE(6), LC_BT(50), LC_REC(15)
-    DP(10 hrs):AE(14), LC_DP(169)
-    Greedy(4 hrs):LC_GR(66)
+    Recursion/BackTracking/Branch-Bound(8 hrs):IC, AE(6), LC_BT(50), LC_REC(15)
+    DP(10 hrs):IC, AE(14), LC_DP(169)
+    Greedy(4 hrs):IC, LC_GR(66)
   
   Algorithms on Graphs:
-    Graphs(55hrs):AE(8),LC_DFS(113),LC_BFS(58),LC_G(36) 
+    Graphs(55hrs):IC, AE(8),LC_DFS(113),LC_BFS(58),LC_G(36) 
   
   Algorithm on Strings(17hrs):
-    Strings:AE(6), LC_ST(148)
+    Strings:IC, AE(6), LC_ST(148)
     Tries:AE(2), LD_TR(17)
 
   Advanced Algorithms and Complexity(25 hrs):
@@ -31,18 +31,18 @@ Algorithms:
 Stream4:
   Data Structures(22 hrs)
     Trees: Trees, Binary Tree, Heaps:
-      T/BT:AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
-      Heaps:AE(2), LC_HP(34)
-      BST:AE(4), TD(26)
+      T/BT:IC, AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
+      Heaps:IC, AE(2), LC_HP(34)
+      BST:IC, AE(4), TD(26)
             
     Sequential DS: Arrays, Linked Lists, Stacks, Queues
-      Arrays: AE(10), LC_AR(204)
-      LL:AE(5), LC_LL(36), TD(58)
-      Queues:TD(33), LC_Q(9)
+      Arrays: IC, AE(10), LC_AR(204)
+      LL:IC, AE(5), LC_LL(36), TD(58)
+      Queues:IC, TD(33), LC_Q(9)
       Stacks:AE(2), LC_ST(54), TD(28)
     
     Maps: hast-sets, hash-maps, hash tables, dictionary
-      LC_HT(121)
+      IC, LC_HT(121)
 
 
 

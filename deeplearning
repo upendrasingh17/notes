@@ -51,3 +51,6 @@ https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/
 https://medium.com/@sumantrajoshi/face-recognizer-application-using-a-deep-learning-model-python-and-keras-2873e9aa6ab3
 https://github.com/sumantrajoshi/Face-recognition-using-deep-learning
 https://github.com/Alireza-Akhavan/deep-face-recognition
+
+Capture and display video from either IP CAM, USB webcam, or the Tegra X2/X1 onboard camera.
+https://gist.github.com/jkjung-avt/86b60a7723b97da19f7bfa3cb7d2690e

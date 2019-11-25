@@ -18,13 +18,13 @@ Algorithms:
     Week{5,6}: Dynamic Programming(10hr): IC, AE(14), LC_DP(169)
       
   Algorithms on Graphs:
-    Graphs(55hrs):IC, AE(8),,LC_BFS(58),LC_G(36) 
-    Week1: Graph Basics(4hr)(Started):LC_DFS(113)
+    Graphs(55hrs):,  
+    Week1: Graph Basics(4hr)(Started):IC, AE(8),LC_DFS(113)
     Week2: Directed Graphs(4hr)
-    Week3: Paths in Graphs(4hr)
+    Week3: Paths in Graphs(4hr):IC, AE(8), LC_BFS(58)
     Week4: Paths in Graphs(5hr)
     Week5: Minimum Spanning Tree(4hr)
-    Week6: Advanced Shortest Paths(33hrs)
+    Week6: Advanced Shortest Paths(33hrs):LC_G(36)
   
   Algorithm on Strings:
     Week1: Suffix Trees(4hr):Tries:AE(2), LD_TR(17)     (Started)

@@ -19,31 +19,43 @@ Algorithms:
       
   Algorithms on Graphs:
     Graphs(55hrs):IC, AE(8),LC_DFS(113),LC_BFS(58),LC_G(36) 
+    Week1: Graph Basics(4hr)
+    Week2: Directed Graphs(4hr)
+    Week3: Paths in Graphs(4hr)
+    Week4: Paths in Graphs(5hr)
+    Week5: Minimum Spanning Tree(4hr)
+    Week6: Advanced Shortest Paths(33hrs)
   
-  Algorithm on Strings(17hrs):
-    Strings:IC, AE(6), LC_ST(148)
-    Tries:AE(2), LD_TR(17)
-
-  Advanced Algorithms and Complexity(25 hrs):
+  Algorithm on Strings:
+    Week1: Suffix Trees(4hr):Tries:AE(2), LD_TR(17)
+    Week2: BWT and Suffix Arrays(4hr):Strings:IC, AE(6), LC_ST(148)
+    Week3: Knuth Morris Prat(3hr)
+    Week4: Constructing Suffix Arrays and Trees(5hr)
+    
+  Advanced Algorithms and Complexity:
+    Week1: Flows in networks(5hr)
+    Week2: Linear Programming(5hr)
+    Week3: NP Complete Problems(6hr)
+    Week4: Coping with NP Completeness(5hr)
+    Week5: Streaming Algorithms(5h)
     Searching:AE(6), LC_BS(79)
     Sorting:AE(6), LC_SO(38)
     MA/PUZZLES:AE(3), TD(30)
 
 Stream4:
-  Data Structures(22 hrs)
-    Trees: Trees, Binary Tree, Heaps:
+  Data Structures:
+    Week1: Basic Data Structures(4hr):
       T/BT:IC, AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
-      Heaps:IC, AE(2), LC_HP(34)
-      BST:IC, AE(4), TD(26)
-            
-    Sequential DS: Arrays, Linked Lists, Stacks, Queues
-      Arrays: IC, AE(10), LC_AR(204)
       LL:IC, AE(5), LC_LL(36), TD(58)
       Queues:IC, TD(33), LC_Q(9)
       Stacks:AE(2), LC_ST(54), TD(28)
-    
-    Maps: hast-sets, hash-maps, hash tables, dictionary
-      IC, LC_HT(121)
+    Week2: Dynamic Array and Amortized Analysis(1 hr)
+      Arrays: IC, AE(10), LC_AR(204)
+    Week3: Priority Queues and Disjoint Sets(6hr):IC, AE(2), LC_HP(34)
+    Week4: Hash Tables(6hr):Maps: IC
+    Week5: BST1(2hr)
+    Week6: BST2(4hr):IC, AE(4), TD(26)
+      
 
 
 

@@ -27,7 +27,7 @@ Algorithms:
     Week6: Advanced Shortest Paths(33hrs)
   
   Algorithm on Strings:
-    Week1: Suffix Trees(4hr):Tries:AE(2), LD_TR(17)
+    Week1: Suffix Trees(4hr):Tries:AE(2), LD_TR(17)     (Started)
     Week2: BWT and Suffix Arrays(4hr):Strings:IC, AE(6), LC_ST(148)
     Week3: Knuth Morris Prat(3hr)
     Week4: Constructing Suffix Arrays and Trees(5hr)
@@ -49,7 +49,7 @@ Stream4:
       LL:IC, AE(5), LC_LL(36), TD(58)
       Queues:IC, TD(33), LC_Q(9)
       Stacks:AE(2), LC_ST(54), TD(28)
-    Week2: Dynamic Array and Amortized Analysis(1 hr)
+    Week2: Dynamic Array and Amortized Analysis(1 hr)   (Started)
       Arrays: IC, AE(10), LC_AR(204)
     Week3: Priority Queues and Disjoint Sets(6hr):IC, AE(2), LC_HP(34)
     Week4: Hash Tables(6hr):Maps: IC

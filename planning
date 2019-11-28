@@ -13,8 +13,7 @@ Stream3:
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
     Week{1,2}: Fundamentals(8Hrs)
-    Week3: Greedy(4hr): IC, LC_GR(66)
-    
+    Week3: Greedy(4hr): IC, LC_GR(66)    
     Week4: Recursion/Divide and Conquer/BT/BB(7hr):IC, AE(6), LC_BT(50), LC_REC(15) 
     
     Week{5,6}: Dynamic Programming(10hr): IC, AE(14), LC_DP(169)

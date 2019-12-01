@@ -1,0 +1,5 @@
+https://hadoop.apache.org/docs/r2.8.0/api/org/apache/hadoop/fs/FileSystem
+https://hadoop.apache.org/docs/r2.8.0/api/org/apache/hadoop/fs/s3/S3FileSystem.html
+https://hadoop.apache.org/docs/r2.8.0/api/org/apache/hadoop/fs/RawLocalFileSystem.html
+
+https://gist.github.com/ashrithr/f7899fdfd36ee800f151

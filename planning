@@ -15,17 +15,17 @@ Stream3:
 Algorithms:
   Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
     Week{1,2}: Fundamentals(8Hrs)
-    Week3: Greedy(4hr): IC, LC_GR(66)    
-    Week4: Recursion/Divide and Conquer/BT/BB(7hr):IC, AE(6), LC_BT(50), LC_REC(15) 
+    Week3: Greedy(4hr): IC, EPI(17), LC_GR(66)    
+    Week4: Recursion/Divide and Conquer/BT/BB(7hr):IC, EPI(15), AE(6), LC_BT(50), LC_REC(15) 
     
-    Week{5,6}: Dynamic Programming(10hr): IC, AE(14), LC_DP(169)
+    Week{5,6}: Dynamic Programming(10hr): IC, EPI(16), AE(14), LC_DP(169)
       
   Algorithms on Graphs:
     Graphs(55hrs):,  
     Week1: Graph Basics(4hr)(Started):IC, AE(8),LC_DFS(113)
     Week2: Directed Graphs(4hr)
     
-    Week3: Paths in Graphs(4hr):IC, AE(8), LC_BFS(58)
+    Week3: Paths in Graphs(4hr):IC, EPI(18), AE(8), LC_BFS(58)
     Week4: Paths in Graphs(5hr)
     
     Week5: Minimum Spanning Tree(4hr)
@@ -36,7 +36,7 @@ Algorithms:
     Week2: BWT and Suffix Arrays(4hr)
     Week4: Constructing Suffix Arrays and Trees(5hr)
     
-    Week3: Knuth Morris Prat(3hr):Strings:IC, AE(6), LC_ST(148)
+    Week3: Knuth Morris Prat(3hr):Strings:EPI(6), IC, AE(6), LC_ST(148)
     
     
   Advanced Algorithms and Complexity:
@@ -45,24 +45,24 @@ Algorithms:
     Week3: NP Complete Problems(6hr)
     Week4: Coping with NP Completeness(5hr)
     Week5: Streaming Algorithms(5h)
-    Searching:AE(6), LC_BS(79)
-    Sorting:AE(6), LC_SO(38)
-    MA/PUZZLES:AE(3), TD(30)
+    Searching:EPI(11), AE(6), LC_BS(79)
+    Sorting:EPI(13), AE(6), LC_SO(38)
+    MA/PUZZLES:EPI(19), AE(3), EPI(24), TD(30)
 
 Stream4:
   Data Structures:
     Week1: Basic Data Structures(4hr):
-      T/BT:IC, AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
-      LL:IC, AE(5), LC_LL(36), TD(58)
-      Queues:IC, TD(33), LC_Q(9)
+      T/BT:IC, EPI(9), AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
+      LL:IC, EPI(7),AE(5), LC_LL(36), TD(58)
+      Queues:IC, EPI(8),TD(33), LC_Q(9)
       Stacks:AE(2), LC_ST(54), TD(28)
     Week5: BST1(2hr)
-    Week6: BST2(4hr):IC, AE(4), TD(26)
+    Week6: BST2(4hr):IC, EPI(14),AE(4), TD(26)
     
     Week2: Dynamic Array and Amortized Analysis(1 hr)   (Started)
-      Arrays: IC, AE(10), LC_AR(204)
-    Week3: Priority Queues and Disjoint Sets(6hr):IC, AE(2), LC_HP(34)
-    Week4: Hash Tables(6hr):Maps: IC
+      Arrays: IC, EPI(5),AE(10), LC_AR(204)
+    Week3: Priority Queues and Disjoint Sets(6hr):IC, EPI(10),AE(2), LC_HP(34)
+    Week4: Hash Tables(6hr):Maps: IC, EPI(12)
     
       
 

@@ -16,7 +16,7 @@ Algorithms:
     AT_1:
       Week{1,2}: Fundamentals(8Hrs)
       Week3: Greedy(4hr): IC, EPI(17), LC_GR(66)    
-      Week4: Recursion/Divide and Conquer/BT/BB(7hr):IC, EPI(15), AE(6), LC_BT(50), LC_REC(15) 
+      Week4: Recursion/Divide and Conquer/BT/BB(7hr):Intro to Rec Thinking, IC, EPI(15), AE(6), LC_BT(50), LC_REC(15) 
     
     AT_2:
       Week{5,6}: Dynamic Programming(10hr): IC, EPI(16), AE(14), LC_DP(169)

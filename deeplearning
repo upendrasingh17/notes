@@ -66,3 +66,8 @@ https://towardsdatascience.com/how-to-deploy-onnx-models-on-nvidia-jetson-nano-u
 
 Face Recognition
 https://github.com/richmondu/libfaceid
+
+Keras to TF:
+https://github.com/Tony607/keras-tf-pb
+TF-to-Uff
+

@@ -1,105 +1,19 @@
-GP Planning:
+Data Structures and Algorithms.
 
+Algorithm Design and Techniques 6w
+Data Structures Fundamentals 6w
+Graph Algorithms 6w
+NP-Complete Algorithms 3w
+String Processing and Pattern Matching Algorithms 4w
+Dynamic Programming: Applications in Machine Learning 4w
+Graph Algorithms in Genome Sequencing 3w
+Capstone 4w
 
-Deep Learning(DL):
-    1.Tensorflow 2.0: Deep Learning and Artificial Intelligence
-    2. Advanced Machine Learning Specialization
-       
-Machine Learning(ML)
-    1. Clustering and Applied Multivariate Analysis
-    2. Applied Predictive Modelling
-  
+Padhai AI:
+Foundation of Data Science
 
-
-Algorithms:
-  Algorithmic Toolbox:Recursion, BackTracking, Branch-Bound,Dynamic Programming,Greedy Algorithms
-    AT_1:
-      Week{1,2}: Fundamentals(8Hrs)
-      Week3: Greedy(4hr): IC, EPI(17), LC_GR(66)    
-      Week4: Recursion/Divide and Conquer/BT/BB(7hr):Intro to Rec Thinking, IC, EPI(15), AE(6), LC_BT(50), LC_REC(15) 
-    
-    AT_2:
-      Week{5,6}: Dynamic Programming(10hr): IC, EPI(16), AE(14), LC_DP(169)
-      
-  Algorithms on Graphs:
-    Graphs(55hrs):,  
-    AG_1:
-      Week1: Graph Basics(4hr)(Started):IC, AE(8),LC_DFS(113)
-      Week2: Directed Graphs(4hr)
-    
-    AG_2:
-      Week3: Paths in Graphs(4hr):IC, EPI(18), AE(8), LC_BFS(58)
-      Week4: Paths in Graphs(5hr)
-    
-    AG_3:
-      Week5: Minimum Spanning Tree(4hr)
-      Week6: Advanced Shortest Paths(33hrs):LC_G(36)
-  
-  Algorithm on Strings:
-    AS_1:
-      Week1: Suffix Trees(4hr):Tries:AE(2), LD_TR(17)     (Started)
-      Week2: BWT and Suffix Arrays(4hr)
-      Week4: Constructing Suffix Arrays and Trees(5hr)
-    
-    AS_2:
-      Week3: Knuth Morris Prat(3hr):Strings:EPI(6), IC, AE(6), LC_ST(148)
-    
-    
-  Advanced Algorithms and Complexity(AAC):
-    AAC_1:
-      Week1: Flows in networks(5hr)
-      Week2: Linear Programming(5hr)
-      Week3: NP Complete Problems(6hr)
-      Week4: Coping with NP Completeness(5hr)
-      Week5: Streaming Algorithms(5h)
-    AAC_2:
-      Searching:EPI(11), AE(6), LC_BS(79)
-      Sorting:EPI(13), AE(6), LC_SO(38)
-      MA/PUZZLES:EPI(19), AE(3), EPI(24), TD(30)
-
-Stream4:
-  Data Structures:
-    DS_1:
-      Week1: Basic Data Structures(4hr):
-        T/BT:IC, EPI(9), AE(3), LC_T(123), LC_BIT(6), LC_ST(11)
-        LL:IC, EPI(7),AE(5), LC_LL(36), TD(58)
-        Queues:IC, EPI(8),TD(33), LC_Q(9)
-        Stacks:AE(2), LC_ST(54), TD(28)
-      Week5: BST1(2hr)
-      Week6: BST2(4hr):IC, EPI(14),AE(4), TD(26)
-    
-    DS_2:
-      Week2: Dynamic Array and Amortized Analysis(1 hr)   (Started)
-        Arrays: IC, EPI(5),AE(10), LC_AR(204)
-    
-    DS_3:
-      Week3: Priority Queues and Disjoint Sets(6hr):IC, EPI(10),AE(2), LC_HP(34)
-      Week4: Hash Tables(6hr):Maps: IC, EPI(12)
-
-      
-DL ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3 
-
-DL ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1
-ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2
-AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1
-AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2
-AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3
-AG_2 AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3 DL
-AG_3 AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3 DL ML
-AS_1 AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3 DL ML AT_1
-AS_2 AAC_1 AAC_2 DS_1 DS_2 DS_3 DL ML AT_1 AT_2
-AAC_1 AAC_2 DS_1 DS_2 DS_3 DL ML AT_1 AT_2 AG_1
-AAC_2 DS_1 DS_2 DS_3 DL ML AT_1 AT_2 AG_1 AG_2
-DS_1 DS_2 DS_3 DL ML AT_1 AT_2 AG_1 AG_2 AG_3
-DS_2 DS_3 DL ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1
-DS_3 DL ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2
-
-DL ML AT_1 AT_2 AG_1 AG_2 AG_3 AS_1 AS_2 AAC_1
-
-In 14 days pattern repeats itself....
-
-
-
+Applied Statitics:
+Probability and Mathematical Statistics-Meyer
 
 
 

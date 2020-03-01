@@ -1,3 +1,4 @@
-https://medium.com/@JockDaRock/minikube-on-windows-10-with-hyper-v-6ef0f4dc158c
-
-in above article use following command "minikube start --vm-driver hyperv --force --hyperv-virtual-switch "Primary Virtual Switch"
+Running Kubeflow on Docker Windows and WSL
+https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly
+https://devkimchi.com/2018/06/05/running-kubernetes-on-wsl/
+https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/

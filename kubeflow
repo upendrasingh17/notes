@@ -4,4 +4,8 @@ https://devkimchi.com/2018/06/05/running-kubernetes-on-wsl/
 https://www.kubeflow.org/docs/started/k8s/kfctl-k8s-istio/
 
 https://www.assistanz.com/installing-minikube-on-windows-10-using-hyper-v/
+Note: use --force command parameter to make sure command works
+
+https://medium.com/kubeflow/an-end-to-end-ml-pipeline-on-prem-notebooks-kubeflow-pipelines-on-the-new-minikf-33b7d8e9a836
+
 

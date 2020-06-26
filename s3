@@ -4,3 +4,10 @@ https://cloudonaut.io/how-to-analyze-and-reduce-s3-storage-usage/
 
 CloudTrail
 https://noise.getoto.net/2017/11/10/visualize-aws-cloudtrail-logs-using-aws-glue-and-amazon-quicksight/
+
+AWS Glue
+https://aws.amazon.com/blogs/big-data/best-practices-to-scale-apache-spark-jobs-and-partition-data-with-aws-glue/
+https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parquet-writer-with-aws-glue/
+https://awsfeed.com/whats-new/big-data/simplify-data-pipelines-with-aws-glue-automatic-code-generation-and-workflows/
+
+https://aws.amazon.com/blogs/big-data/work-with-partitioned-data-in-aws-glue/

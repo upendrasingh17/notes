@@ -11,3 +11,6 @@ https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parq
 https://awsfeed.com/whats-new/big-data/simplify-data-pipelines-with-aws-glue-automatic-code-generation-and-workflows/
 
 https://aws.amazon.com/blogs/big-data/work-with-partitioned-data-in-aws-glue/
+
+S3 and SFTP:
+https://towardsdatascience.com/datalake-file-ingestion-from-ftp-to-aws-s3-253022ae54d4

@@ -197,3 +197,5 @@ http://sookocheff.com/post/kafka/deploying-kafka-to-gce/
 
 Celery + Multiprocessing + Code:
 http://stackoverflow.com/questions/29874443/starting-celery-worker-from-multiprocessing
+
+https://medium.com/slalom-build/a-guide-to-choosing-the-right-streaming-solution-for-you-on-aws-57089f03e034

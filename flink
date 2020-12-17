@@ -10,6 +10,7 @@ https://medium.com/deep-bi/real-time-stream-analytics-and-user-scoring-using-apa
 Youtube:
 Flink Forward 2016: Jamie Grier - Robust Stream Processing with Apache Flink
 https://www.youtube.com/watch?v=ACS6OM1-xgE
+https://www.ververica.com/blog/robust-stream-processing-flink-walkthrough
 
 A look at Flink’s internal data structures & algorithms for efficient checkpointing - Stefan Richter
 https://www.youtube.com/watch?v=dWQ24wERItM

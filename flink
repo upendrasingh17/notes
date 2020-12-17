@@ -7,3 +7,24 @@ https://klaviyo.tech/flinkperf-c7bd28acc67
 
 https://medium.com/deep-bi/real-time-stream-analytics-and-user-scoring-using-apache-druid-flink-cassandra-at-deep-bi-38e5dc40958d
 
+Youtube:
+Flink Forward 2016: Jamie Grier - Robust Stream Processing with Apache Flink
+https://www.youtube.com/watch?v=ACS6OM1-xgE
+
+A look at Flink’s internal data structures & algorithms for efficient checkpointing - Stefan Richter
+https://www.youtube.com/watch?v=dWQ24wERItM
+
+Scaling a real-time streaming warehouse with Apache Flink, Parquet and Kubernetes - Aditi Verma & R
+https://www.youtube.com/watch?v=HguupENG-70
+
+Apache Flink Worst Practices - Konstantin Knauf
+https://www.youtube.com/watch?v=F7HQd3KX2TQ
+
+Massive Scale Data Processing at Netflix using Flink - Snehal Nagmote & Pallavi Phadnis
+https://www.youtube.com/watch?v=lC0d3gAPXaI
+
+GOTO 2019 • Introduction to Stateful Stream Processing with Apache Flink • Robert Metzger
+https://www.youtube.com/watch?v=DkNeyCW-eH0
+
+
+

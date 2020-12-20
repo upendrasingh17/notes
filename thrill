@@ -4,3 +4,8 @@ https://gist.github.com/kylebarron/ccb18fc99a0b847cefa3b7412fac214f
 Arrow-Parquet Build command:
 cmake -DARROW_BUILD_TESTS=OFF -DARROW_PARQUET=ON -DARROW_JEMALLOC=OFF -DARROW_COMPUTE=OFF ..
 make install
+
+C++ Streaming Platform
+https://github.com/fastflow/fastflow
+https://github.com/alpha-unito/pico
+

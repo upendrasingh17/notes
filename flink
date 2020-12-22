@@ -37,6 +37,9 @@ https://www.informatik.uni-leipzig.de/EDBTChallenge2019/documentation.pdf
 
 Webinar: 99 Ways to Enrich Streaming Data with Apache Flink - Konstantin Knauf
 https://www.youtube.com/watch?v=cJS18iKLUIY
+https://github.com/knaufk/enrichments-with-flink
+https://github.com/knaufk/flink-faker
+https://github.com/knaufk/flink-testing-pyramid
 
 https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/connectors/kafka.html
 

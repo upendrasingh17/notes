@@ -50,5 +50,9 @@ https://github.com/knaufk/flink-testing-pyramid
 
 https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/connectors/kafka.html
 
+Serialization and deserialization Flink:
+https://gist.github.com/mandar2174/5dc13350b296abf127b92d0697c320f2
+https://github.com/apache/flink/blob/master/flink-end-to-end-tests/flink-confluent-schema-registry/src/main/java/org/apache/flink/schema/registry/test/TestAvroConsumerConfluent.java
+
 
 

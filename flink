@@ -48,6 +48,11 @@ https://github.com/knaufk/enrichments-with-flink
 https://github.com/knaufk/flink-faker
 https://github.com/knaufk/flink-testing-pyramid
 
+Enriching your Data Stream Asynchronously with Apache Flink
+https://www.youtube.com/watch?v=UParyxe-2Wc
+
+https://github.com/aws-samples/amazon-kinesis-analytics-taxi-consumer
+
 https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/connectors/kafka.html
 
 Serialization and deserialization Flink:

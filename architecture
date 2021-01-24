@@ -17,3 +17,7 @@ https://breadcrumbscollector.tech/implementing-event-sourcing-in-python-part-1-a
 https://breadcrumbscollector.tech/implementing-event-sourcing-in-python-part-2-robust-event-store-atop-postgresql/
 https://breadcrumbscollector.tech/implementing-event-sourcing-in-python-part-3-robust-event-store-atop-rethinkdb/
 https://breadcrumbscollector.tech/implementing-event-sourcing-in-python-part-4-efficient-read-model-with-projections/
+
+https://blog.sebastian-daschner.com/entries/event_sourcing_cqrs_video_course
+https://www.baeldung.com/cqrs-event-sourcing-java
+

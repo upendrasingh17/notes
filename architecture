@@ -36,3 +36,6 @@ Design Microservices Architecture The Right Way
 https://www.youtube.com/watch?v=j6ow-UemzBc
 
 https://www.baeldung.com/spring-data-dynamodb
+
+Out of sequence events:
+https://blog.jonathanoliver.com/cqrs-out-of-sequence-messages-and-read-models/

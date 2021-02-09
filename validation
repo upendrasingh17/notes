@@ -32,3 +32,5 @@ https://github.com/apache/hadoop/tree/trunk/hadoop-hdfs-project/hadoop-hdfs/src/
 https://github.com/apache/hadoop/blob/trunk/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestBatchedListDirectories.java
 
 https://github.com/apache/hadoop/tree/trunk/hadoop-tools/hadoop-aws/src/test/java/org/apache/hadoop/fs/s3a
+
+https://martinfowler.com/articles/microservice-testing/#agenda
